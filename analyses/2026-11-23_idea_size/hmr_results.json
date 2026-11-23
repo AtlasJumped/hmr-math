@@ -1,0 +1,272 @@
+{
+ "strictest": {
+  "n": 250,
+  "links": 103,
+  "R": 247,
+  "h": 4,
+  "pieces": 150,
+  "pieces_gt1": 10,
+  "largest_n": 86,
+  "largest_R": 232,
+  "isolated": 140,
+  "roots_stated": 6,
+  "roots_import": 29,
+  "roots_effective_unproved": 10,
+  "participating": 110,
+  "econ_stated": 14.5,
+  "econ_all_roots": 5.5,
+  "R_per_claim": 2.25
+ },
+ "strict": {
+  "n": 250,
+  "links": 225,
+  "R": 1159,
+  "h": 8,
+  "pieces": 73,
+  "pieces_gt1": 4,
+  "largest_n": 173,
+  "largest_R": 1154,
+  "isolated": 69,
+  "roots_stated": 15,
+  "roots_import": 30,
+  "roots_effective_unproved": 1,
+  "participating": 181,
+  "econ_stated": 68.2,
+  "econ_all_roots": 25.2,
+  "R_per_claim": 6.4,
+  "R_excluding_import_ancestors": 1004
+ },
+ "lenient": {
+  "n": 250,
+  "links": 288,
+  "R": 1571,
+  "h": 9,
+  "pieces": 29,
+  "pieces_gt1": 2,
+  "largest_n": 221,
+  "largest_R": 1570,
+  "isolated": 27,
+  "roots_stated": 17,
+  "roots_import": 31,
+  "roots_effective_unproved": 0,
+  "participating": 223,
+  "econ_stated": 92.4,
+  "econ_all_roots": 32.7,
+  "R_per_claim": 7.04,
+  "R_excluding_import_ancestors": 1353
+ },
+ "potential": {
+  "n": 259,
+  "links": 382,
+  "R": 3543,
+  "h": 17,
+  "pieces": 3,
+  "pieces_gt1": 1,
+  "largest_n": 257,
+  "largest_R": 3543,
+  "isolated": 2,
+  "roots_stated": 11,
+  "roots_import": 31,
+  "roots_effective_unproved": 0,
+  "participating": 257,
+  "econ_stated": 208.4,
+  "econ_all_roots": 84.4,
+  "R_per_claim": 13.79
+ },
+ "conflict": {
+  "on_growth": 32,
+  "on_P1": 26,
+  "on_both": [],
+  "blocked_crossing_upper": 832,
+  "clean_claims": 181,
+  "R_clean": 426,
+  "lenient_on_both": []
+ },
+ "bracing": {
+  "max_D": [
+   132,
+   "D_state",
+   "D_birth"
+  ],
+  "median_D": 5,
+  "top": [
+   [
+    132,
+    "D_state",
+    "D_birth"
+   ],
+   [
+    125,
+    "A3",
+    "D_state"
+   ],
+   [
+    125,
+    "A2",
+    "D_state"
+   ],
+   [
+    104,
+    "D_birth",
+    "T_rule"
+   ],
+   [
+    98,
+    "U_causet",
+    "U_vol"
+   ],
+   [
+    87,
+    "T_rule",
+    "T_simple"
+   ],
+   [
+    69,
+    "U_vol",
+    "U_gamma"
+   ],
+   [
+    67,
+    "D_ref",
+    "D_truth"
+   ]
+  ]
+ },
+ "rest_on_assumption": [
+  [
+   128,
+   "A3"
+  ],
+  [
+   125,
+   "A2"
+  ],
+  [
+   40,
+   "A4"
+  ],
+  [
+   34,
+   "M1"
+  ],
+  [
+   34,
+   "A6"
+  ],
+  [
+   32,
+   "A7"
+  ],
+  [
+   32,
+   "A5"
+  ],
+  [
+   25,
+   "P1"
+  ],
+  [
+   22,
+   "P2"
+  ],
+  [
+   15,
+   "M3"
+  ],
+  [
+   9,
+   "P3"
+  ],
+  [
+   5,
+   "P4"
+  ],
+  [
+   4,
+   "P5"
+  ],
+  [
+   4,
+   "M2"
+  ],
+  [
+   3,
+   "P6"
+  ],
+  [
+   0,
+   "HF"
+  ],
+  [
+   0,
+   "A1"
+  ]
+ ],
+ "work_items": [
+  [
+   402,
+   335,
+   "X_law",
+   "A rule of growth that yields space (three dimensions, steady)"
+  ],
+  [
+   227,
+   213,
+   "X_mem",
+   "A law with a rewritable memory in one place (about, derived)"
+  ],
+  [
+   227,
+   193,
+   "X_q",
+   "A quantum rule for births"
+  ],
+  [
+   60,
+   55,
+   "X_w",
+   "UI's own liking and HMR's values written in the mathematics"
+  ],
+  [
+   35,
+   34,
+   "X_lev",
+   "Levels: the law carried from single thoughts to human minds"
+  ],
+  [
+   31,
+   23,
+   "X_bit",
+   "The bit derived from the rule of growth"
+  ],
+  [
+   23,
+   7,
+   "X_inv",
+   "Inversion: a part that carries a model of itself (life)"
+  ],
+  [
+   9,
+   5,
+   "X_coh",
+   "One number for coherence"
+  ],
+  [
+   3,
+   3,
+   "X_part",
+   "One pure number: a lasting pattern with a period (mass ratio)"
+  ]
+ ],
+ "all_items_on_lenient": {
+  "n": 259,
+  "R": 3057,
+  "h": 16
+ },
+ "potential_all": {
+  "n": 259,
+  "R": 3543,
+  "h": 17,
+  "pieces": 3
+ }
+}

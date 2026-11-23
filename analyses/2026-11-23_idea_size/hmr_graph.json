@@ -1,0 +1,3470 @@
+{
+ "nodes": [
+  {
+   "id": "A1",
+   "kind": "A",
+   "page": "math",
+   "text": "Reality is the thinking of one Universal Intelligence"
+  },
+  {
+   "id": "A2",
+   "kind": "A",
+   "page": "math",
+   "text": "One element: a thought, which has only relations"
+  },
+  {
+   "id": "A3",
+   "kind": "A",
+   "page": "math",
+   "text": "One relation, builds on: acyclic, finite past"
+  },
+  {
+   "id": "A4",
+   "kind": "A",
+   "page": "math",
+   "text": "Only the pattern counts: birth order of unrelated thoughts is irrelevant"
+  },
+  {
+   "id": "A5",
+   "kind": "A",
+   "page": "math",
+   "text": "No reaching across: next thought depends only on what it builds on"
+  },
+  {
+   "id": "A6",
+   "kind": "A",
+   "page": "math",
+   "text": "Liking: every next thought has a chance, and chances are UI's liking"
+  },
+  {
+   "id": "A7",
+   "kind": "A",
+   "page": "math",
+   "text": "No possible birth has chance zero (hypothesis of the rule theorem)"
+  },
+  {
+   "id": "M1",
+   "kind": "A",
+   "page": "math",
+   "text": "About: a thought can be about another thought (reference, not derived)"
+  },
+  {
+   "id": "M2",
+   "kind": "A",
+   "page": "math",
+   "text": "A part of the pattern has a bounded live set"
+  },
+  {
+   "id": "M3",
+   "kind": "A",
+   "page": "math",
+   "text": "Every claim carries a range (domain)"
+  },
+  {
+   "id": "P1",
+   "kind": "A",
+   "page": "phys",
+   "text": "A very large pattern of thoughts is spacetime-like"
+  },
+  {
+   "id": "P2",
+   "kind": "A",
+   "page": "phys",
+   "text": "One thought is one unit of volume"
+  },
+  {
+   "id": "P3",
+   "kind": "A",
+   "page": "phys",
+   "text": "Each crossing relation carries one bit, s = ln 2"
+  },
+  {
+   "id": "P4",
+   "kind": "A",
+   "page": "phys",
+   "text": "Relations carry no structure beyond themselves"
+  },
+  {
+   "id": "P5",
+   "kind": "A",
+   "page": "phys",
+   "text": "Quantum theory is borrowed: hbar, positive energy, locality"
+  },
+  {
+   "id": "P6",
+   "kind": "A",
+   "page": "phys",
+   "text": "Energy crossing a boundary is recorded as new crossing relations"
+  },
+  {
+   "id": "HF",
+   "kind": "A",
+   "page": "hmr",
+   "text": "Fascia is the body's primary system for health"
+  },
+  {
+   "id": "I_counts",
+   "kind": "I",
+   "page": "math",
+   "text": "Counts of finite orders 1,1,2,5,16,63,318"
+  },
+  {
+   "id": "I_birk",
+   "kind": "I",
+   "page": "math",
+   "text": "Birkhoff arithmetic of ordered sets"
+  },
+  {
+   "id": "I_rs",
+   "kind": "I",
+   "page": "math",
+   "text": "Rideout and Sorkin 1999 classical sequential growth"
+  },
+  {
+   "id": "I_bg",
+   "kind": "I",
+   "page": "math",
+   "text": "Brightwell and Georgiou 2010: no spacelike large-scale limit"
+  },
+  {
+   "id": "I_bl",
+   "kind": "I",
+   "page": "math",
+   "text": "Brightwell and Luczak 2011 order-invariant measures"
+  },
+  {
+   "id": "I_mors",
+   "kind": "I",
+   "page": "math",
+   "text": "Martin, OConnor, Rideout, Sorkin 2001 posts and renewal"
+  },
+  {
+   "id": "I_bell",
+   "kind": "I",
+   "page": "phys",
+   "text": "Bell bound 2; measured 2.42 (Hensen 2015)"
+  },
+  {
+   "id": "I_s94",
+   "kind": "I",
+   "page": "phys",
+   "text": "Sorkin 1994 pairs interfere, triples do not; Sinha 2010"
+  },
+  {
+   "id": "I_craig",
+   "kind": "I",
+   "page": "phys",
+   "text": "Craig et al 2007 strong positivity gives 2 sqrt 2"
+  },
+  {
+   "id": "I_mm",
+   "kind": "I",
+   "page": "math",
+   "text": "Myrheim-Meyer: related share fixes dimension"
+  },
+  {
+   "id": "I_bhs",
+   "kind": "I",
+   "page": "phys",
+   "text": "Bombelli, Henson, Sorkin 2009 random scatter marks no frame; unlimited direct relations"
+  },
+  {
+   "id": "I_brg",
+   "kind": "I",
+   "page": "phys",
+   "text": "Brightwell and Gregory 1991 longest chain is proper time"
+  },
+  {
+   "id": "I_bart",
+   "kind": "I",
+   "page": "phys",
+   "text": "Barton et al 2019 horizon molecules gamma = sqrt3/10"
+  },
+  {
+   "id": "I_bek",
+   "kind": "I",
+   "page": "phys",
+   "text": "Bekenstein black hole entropy A/4"
+  },
+  {
+   "id": "I_unruh",
+   "kind": "I",
+   "page": "phys",
+   "text": "Unruh temperature (Bisognano-Wichmann 1975, Unruh 1976)"
+  },
+  {
+   "id": "I_ray",
+   "kind": "I",
+   "page": "phys",
+   "text": "Raychaudhuri equation 1955"
+  },
+  {
+   "id": "I_jac",
+   "kind": "I",
+   "page": "phys",
+   "text": "Jacobson 1995 Einstein equation of state"
+  },
+  {
+   "id": "I_hl",
+   "kind": "I",
+   "page": "phys",
+   "text": "Hamilton and Lisle 2008 river model"
+  },
+  {
+   "id": "I_adgs",
+   "kind": "I",
+   "page": "phys",
+   "text": "Ahmed, Dodelson, Greene, Sorkin 2004 Lambda about 1/sqrtN"
+  },
+  {
+   "id": "I_john",
+   "kind": "I",
+   "page": "phys",
+   "text": "Johnston 2009 field on a causal set"
+  },
+  {
+   "id": "I_gr",
+   "kind": "I",
+   "page": "phys",
+   "text": "General relativity standard results (extra radius GM/3c2, area theorem, clocks)"
+  },
+  {
+   "id": "I_exp",
+   "kind": "I",
+   "page": "math",
+   "text": "Exponential family identities"
+  },
+  {
+   "id": "I_gibbs",
+   "kind": "I",
+   "page": "math",
+   "text": "Relative entropy inequality"
+  },
+  {
+   "id": "I_peb",
+   "kind": "I",
+   "page": "math",
+   "text": "Pebble game on derivation graphs"
+  },
+  {
+   "id": "I_codata",
+   "kind": "I",
+   "page": "phys",
+   "text": "CODATA 2022 constants"
+  },
+  {
+   "id": "I_vas",
+   "kind": "I",
+   "page": "phys",
+   "text": "Vasileiou 2013 no energy dependence of light speed"
+  },
+  {
+   "id": "I_fein",
+   "kind": "I",
+   "page": "phys",
+   "text": "Fein 2019 interference above 25,000 amu"
+  },
+  {
+   "id": "I_west",
+   "kind": "I",
+   "page": "phys",
+   "text": "Westphal 2021 gravity of 90 mg spheres"
+  },
+  {
+   "id": "I_law",
+   "kind": "I",
+   "page": "math",
+   "text": "Lawvere 1969 fixed-point theorem"
+  },
+  {
+   "id": "I_lind",
+   "kind": "I",
+   "page": "math",
+   "text": "Lindemann 1882 pi transcendental"
+  },
+  {
+   "id": "I_wallis",
+   "kind": "I",
+   "page": "math",
+   "text": "Central binomial asymptotics give pi"
+  },
+  {
+   "id": "I_clt",
+   "kind": "I",
+   "page": "math",
+   "text": "Central limit theorem rounds off grid walks"
+  },
+  {
+   "id": "D_state",
+   "kind": "D",
+   "page": "math",
+   "text": "A state is a finite set of thoughts with came-before, acyclic"
+  },
+  {
+   "id": "D_birth",
+   "kind": "D",
+   "page": "math",
+   "text": "Birth: attend to S; new thought after S and its past"
+  },
+  {
+   "id": "T_blaws",
+   "kind": "T",
+   "page": "math",
+   "text": "Six laws of birth"
+  },
+  {
+   "id": "T_grow",
+   "kind": "T",
+   "page": "math",
+   "text": "Every finite pattern can be grown from the void"
+  },
+  {
+   "id": "T_tense",
+   "kind": "T",
+   "page": "math",
+   "text": "Three tenses: before, after, unrelated; time is order not a line"
+  },
+  {
+   "id": "D_time",
+   "kind": "D",
+   "page": "math",
+   "text": "Time between thoughts is the longest chain"
+  },
+  {
+   "id": "T_sizes",
+   "kind": "T",
+   "page": "math",
+   "text": "Four sizes of a thought; a uniform block acts as one thought"
+  },
+  {
+   "id": "T_ops",
+   "kind": "T",
+   "page": "math",
+   "text": "Operators beside, then, inside, paired with their counts"
+  },
+  {
+   "id": "T_then",
+   "kind": "T",
+   "page": "math",
+   "text": "R(C then D) = R(C)+R(D)+n(C)n(D); beside adds nothing"
+  },
+  {
+   "id": "T_rsum",
+   "kind": "T",
+   "page": "math",
+   "text": "R equals sum of pasts and sum of futures"
+  },
+  {
+   "id": "T_num",
+   "kind": "T",
+   "page": "math",
+   "text": "Number is order forgotten"
+  },
+  {
+   "id": "T_prime",
+   "kind": "T",
+   "page": "math",
+   "text": "Inside does not commute; prime patterns"
+  },
+  {
+   "id": "T_proc",
+   "kind": "T",
+   "page": "math",
+   "text": "Exponential growth only with parallel offspring"
+  },
+  {
+   "id": "T_rule",
+   "kind": "T",
+   "page": "math",
+   "text": "Four conditions fix the rule family lambda(w,m)"
+  },
+  {
+   "id": "T_simple",
+   "kind": "T",
+   "page": "math",
+   "text": "Simplest case p^m (1-p)^(n-w)"
+  },
+  {
+   "id": "T_attn",
+   "kind": "T",
+   "page": "math",
+   "text": "The rule said as attention with weights t_k"
+  },
+  {
+   "id": "T_family",
+   "kind": "T",
+   "page": "math",
+   "text": "The t_k are free: a family, not one law"
+  },
+  {
+   "id": "T_cost",
+   "kind": "T",
+   "page": "math",
+   "text": "Chance of a pattern history p^links (1-p)^pairs apart"
+  },
+  {
+   "id": "T_attract",
+   "kind": "T",
+   "page": "math",
+   "text": "Chance of building on a thought 1-(1-p)^(1+f)"
+  },
+  {
+   "id": "T_pull",
+   "kind": "T",
+   "page": "math",
+   "text": "Two thoughts pull as a product"
+  },
+  {
+   "id": "T_action",
+   "kind": "T",
+   "page": "math",
+   "text": "cost = -ln chance; chance = e^-cost"
+  },
+  {
+   "id": "R_action",
+   "kind": "R",
+   "page": "math",
+   "text": "UI drawn to what it likes is least action in another vocabulary"
+  },
+  {
+   "id": "R_temp",
+   "kind": "R",
+   "page": "math",
+   "text": "Temperature is how strictly UI follows its liking"
+  },
+  {
+   "id": "T_complex",
+   "kind": "T",
+   "page": "math",
+   "text": "Complex p: pairs of histories interfere, triples do not (toy)"
+  },
+  {
+   "id": "C_qlike",
+   "kind": "C",
+   "page": "math",
+   "text": "UI's liking is of the quantum kind"
+  },
+  {
+   "id": "T_trans",
+   "kind": "T",
+   "page": "math",
+   "text": "Together carries through chains; apart holds pair by pair"
+  },
+  {
+   "id": "R_tens",
+   "kind": "R",
+   "page": "math",
+   "text": "A pattern of thoughts is a tensegrity"
+  },
+  {
+   "id": "T_mirror",
+   "kind": "T",
+   "page": "math",
+   "text": "Simplest rule cannot tell a pattern from its reverse"
+  },
+  {
+   "id": "T_mm",
+   "kind": "T",
+   "page": "math",
+   "text": "Share of related pairs gives dimension; 1 in 10 in ours"
+  },
+  {
+   "id": "T_line",
+   "kind": "T",
+   "page": "math",
+   "text": "Simplest rule: related share climbs to 100 percent"
+  },
+  {
+   "id": "T_blind",
+   "kind": "T",
+   "page": "math",
+   "text": "Family sees only two counts; blind to shape"
+  },
+  {
+   "id": "T_bell",
+   "kind": "T",
+   "page": "math",
+   "text": "Ordinary-chance rule cannot be the whole law (Bell)"
+  },
+  {
+   "id": "T_nospace",
+   "kind": "T",
+   "page": "math",
+   "text": "No rule of the family has a spacetime-like limit"
+  },
+  {
+   "id": "C_drop3",
+   "kind": "C",
+   "page": "math",
+   "text": "The condition to give up is the third, or go quantum"
+  },
+  {
+   "id": "T_w",
+   "kind": "T",
+   "page": "math",
+   "text": "Rules keeping conditions 1,2,4 are reference chance times w(next)/w(now)"
+  },
+  {
+   "id": "T_wsimple",
+   "kind": "T",
+   "page": "math",
+   "text": "Simplest rule is p=1/2 reweighted by w"
+  },
+  {
+   "id": "R_wlike",
+   "kind": "R",
+   "page": "math",
+   "text": "w is how much UI likes a pattern"
+  },
+  {
+   "id": "T_post",
+   "kind": "T",
+   "page": "math",
+   "text": "A post closes: earlier acts through one number; renewal formula"
+  },
+  {
+   "id": "R_post",
+   "kind": "R",
+   "page": "math",
+   "text": "HMR completion is a post"
+  },
+  {
+   "id": "C_bb",
+   "kind": "C",
+   "page": "math",
+   "text": "The Big Bang was a post (first complete self-model closing)"
+  },
+  {
+   "id": "T_postfreq",
+   "kind": "T",
+   "page": "math",
+   "text": "How often a post happens"
+  },
+  {
+   "id": "T_return",
+   "kind": "T",
+   "page": "math",
+   "text": "After closure rules are drawn toward the simplest rule"
+  },
+  {
+   "id": "R_return",
+   "kind": "R",
+   "page": "math",
+   "text": "Each closed moment is a return to ground"
+  },
+  {
+   "id": "D_ref",
+   "kind": "D",
+   "page": "math",
+   "text": "Reference map rho; grounded when rho(m) before m"
+  },
+  {
+   "id": "D_idea",
+   "kind": "D",
+   "page": "math",
+   "text": "Idea = claims, matching, domain"
+  },
+  {
+   "id": "T_trace",
+   "kind": "T",
+   "page": "math",
+   "text": "A pattern is its histories up to swaps"
+  },
+  {
+   "id": "T_process",
+   "kind": "T",
+   "page": "math",
+   "text": "Process holds the law and the unborn candidates; pattern does not fix law"
+  },
+  {
+   "id": "D_open",
+   "kind": "D",
+   "page": "math",
+   "text": "Open stage and commit"
+  },
+  {
+   "id": "D_truth",
+   "kind": "D",
+   "page": "math",
+   "text": "Truthful, untruthful, undecided"
+  },
+  {
+   "id": "D_faith",
+   "kind": "D",
+   "page": "math",
+   "text": "Truthful idea and faithful idea"
+  },
+  {
+   "id": "D_warr",
+   "kind": "D",
+   "page": "math",
+   "text": "Warranted: rests on truthful thoughts, or checked directly"
+  },
+  {
+   "id": "T_perm",
+   "kind": "T",
+   "page": "math",
+   "text": "Truth is permanent"
+  },
+  {
+   "id": "T_base",
+   "kind": "T",
+   "page": "math",
+   "text": "The base layer cannot err"
+  },
+  {
+   "id": "T_small",
+   "kind": "T",
+   "page": "math",
+   "text": "Smallest truthful thought; smallest thought that could be false"
+  },
+  {
+   "id": "T_large",
+   "kind": "T",
+   "page": "math",
+   "text": "Largest truthful idea is one layer behind"
+  },
+  {
+   "id": "D_dev",
+   "kind": "D",
+   "page": "math",
+   "text": "Ignorance, honest mistake, deliberate lie, slip"
+  },
+  {
+   "id": "C_selfdec",
+   "kind": "C",
+   "page": "math",
+   "text": "Self-deception needs a part's own liking"
+  },
+  {
+   "id": "T_lie",
+   "kind": "T",
+   "page": "math",
+   "text": "A lie is larger than the truth"
+  },
+  {
+   "id": "T_errc",
+   "kind": "T",
+   "page": "math",
+   "text": "Errors combine; a liar with a false belief can say something true"
+  },
+  {
+   "id": "T_nopref",
+   "kind": "T",
+   "page": "math",
+   "text": "Version 1 rule cannot prefer truth"
+  },
+  {
+   "id": "D_emo",
+   "kind": "D",
+   "page": "math",
+   "text": "Feeling, mood, gain, surprise"
+  },
+  {
+   "id": "T_mood",
+   "kind": "T",
+   "page": "math",
+   "text": "Mood rises with gain at a rate equal to spread of feeling"
+  },
+  {
+   "id": "T_fsum",
+   "kind": "T",
+   "page": "math",
+   "text": "Feelings sum to ln w; expected feeling never negative"
+  },
+  {
+   "id": "R_suffer",
+   "kind": "R",
+   "page": "math",
+   "text": "Suffering is a signal the model is wrong"
+  },
+  {
+   "id": "C_named",
+   "kind": "C",
+   "page": "math",
+   "text": "Named emotions live in the gap between expected and delivered"
+  },
+  {
+   "id": "D_cons",
+   "kind": "D",
+   "page": "math",
+   "text": "Consistent: some possible pattern satisfies all claims"
+  },
+  {
+   "id": "T_kappa",
+   "kind": "T",
+   "page": "math",
+   "text": "Inconsistent idea is false by at least kappa claims in every world"
+  },
+  {
+   "id": "T_susp",
+   "kind": "T",
+   "page": "math",
+   "text": "Suspects are claims in a smallest repair; warrant lost above them"
+  },
+  {
+   "id": "T_noclose",
+   "kind": "T",
+   "page": "math",
+   "text": "An inconsistent idea cannot be closed with warrant"
+  },
+  {
+   "id": "T_nojoin",
+   "kind": "T",
+   "page": "math",
+   "text": "Contradicting ideas cannot be joined; join exists iff no circle"
+  },
+  {
+   "id": "T_keep",
+   "kind": "T",
+   "page": "math",
+   "text": "Consistent parts keep full size"
+  },
+  {
+   "id": "T_depth",
+   "kind": "T",
+   "page": "math",
+   "text": "Cost of a contradiction depends on depth"
+  },
+  {
+   "id": "T_1k",
+   "kind": "T",
+   "page": "math",
+   "text": "k parts held apart hold about 1/k"
+  },
+  {
+   "id": "T_range",
+   "kind": "T",
+   "page": "math",
+   "text": "Ranges soften a contradiction"
+  },
+  {
+   "id": "C_closemean",
+   "kind": "C",
+   "page": "math",
+   "text": "Closure must be read at the level of meaning"
+  },
+  {
+   "id": "T_f1",
+   "kind": "T",
+   "page": "math",
+   "text": "An idea with a false part is not wholly true"
+  },
+  {
+   "id": "T_f2",
+   "kind": "T",
+   "page": "math",
+   "text": "A false thought removes warrant of exactly 1+f thoughts"
+  },
+  {
+   "id": "T_f3",
+   "kind": "T",
+   "page": "math",
+   "text": "A second chain or direct check keeps truth"
+  },
+  {
+   "id": "T_whole",
+   "kind": "T",
+   "page": "math",
+   "text": "True parts with true links give a true whole; joins can fail"
+  },
+  {
+   "id": "T_D",
+   "kind": "T",
+   "page": "math",
+   "text": "A false link costs D relations, bounded"
+  },
+  {
+   "id": "T_surv",
+   "kind": "T",
+   "page": "math",
+   "text": "A relation survives iff a chain avoids the false link"
+  },
+  {
+   "id": "T_fpred",
+   "kind": "T",
+   "page": "math",
+   "text": "A failed prediction implies a false link on every chain to it"
+  },
+  {
+   "id": "T_shape",
+   "kind": "T",
+   "page": "math",
+   "text": "Fan costs 1, line costs k(n-k), braced costs 1"
+  },
+  {
+   "id": "R_hline",
+   "kind": "R",
+   "page": "math",
+   "text": "HMR's own narrative is close to a line"
+  },
+  {
+   "id": "D_healthy",
+   "kind": "D",
+   "page": "math",
+   "text": "Healthy: consistent, grounded, braced, correctable, growing"
+  },
+  {
+   "id": "D_good",
+   "kind": "D",
+   "page": "math",
+   "text": "Good: UI likes the pattern more with the thought"
+  },
+  {
+   "id": "R_notmost",
+   "kind": "R",
+   "page": "math",
+   "text": "The liked model is the true one, not the most connected"
+  },
+  {
+   "id": "D_live",
+   "kind": "D",
+   "page": "math",
+   "text": "Live set of a part"
+  },
+  {
+   "id": "T_demand",
+   "kind": "T",
+   "page": "math",
+   "text": "Demand of an idea: line 2, tree h+2"
+  },
+  {
+   "id": "R_wm",
+   "kind": "R",
+   "page": "math",
+   "text": "Demand is working memory"
+  },
+  {
+   "id": "D_train",
+   "kind": "D",
+   "page": "math",
+   "text": "Train of thought, pause, rumination, tip of the tongue"
+  },
+  {
+   "id": "T_lose",
+   "kind": "T",
+   "page": "math",
+   "text": "Newest thought is easiest to lose (simplest rule)"
+  },
+  {
+   "id": "R_persp",
+   "kind": "R",
+   "page": "math",
+   "text": "Perspective: only the latest thoughts are seen directly"
+  },
+  {
+   "id": "T_recall",
+   "kind": "T",
+   "page": "math",
+   "text": "Recall is a new thought about an old one and can be false"
+  },
+  {
+   "id": "T_insight",
+   "kind": "T",
+   "page": "math",
+   "text": "Insight joins at least n(C)n(D) pairs"
+  },
+  {
+   "id": "T_hist",
+   "kind": "T",
+   "page": "math",
+   "text": "Number of histories never falls under birth"
+  },
+  {
+   "id": "T_enid",
+   "kind": "T",
+   "page": "math",
+   "text": "-ln chance(pattern) = cost - ln e(P)"
+  },
+  {
+   "id": "R_energy",
+   "kind": "R",
+   "page": "math",
+   "text": "cost minus ln liking is the energy-like quantity"
+  },
+  {
+   "id": "T_nomem",
+   "kind": "T",
+   "page": "phys",
+   "text": "Version 1 family cannot remember: late shape independent of early"
+  },
+  {
+   "id": "T_rules",
+   "kind": "T",
+   "page": "phys",
+   "text": "So no memory, no recurring idea, no particle, no about from that law"
+  },
+  {
+   "id": "R_onereq",
+   "kind": "R",
+   "page": "phys",
+   "text": "Memory, particle, and about are one requirement on the law"
+  },
+  {
+   "id": "N_seven",
+   "kind": "N",
+   "page": "phys",
+   "text": "Seven shape-seeing rules: none gives lasting memory with a dimension"
+  },
+  {
+   "id": "N_copy",
+   "kind": "N",
+   "page": "phys",
+   "text": "Copy rules remember (0.4 to 0.9)"
+  },
+  {
+   "id": "N_lines",
+   "kind": "N",
+   "page": "phys",
+   "text": "Shapes carry themselves forward in lines of descent"
+  },
+  {
+   "id": "N_freeze",
+   "kind": "N",
+   "page": "phys",
+   "text": "Local copying freezes, does not store"
+  },
+  {
+   "id": "N_bit",
+   "kind": "N",
+   "page": "phys",
+   "text": "A two-way bit, one for the whole pattern"
+  },
+  {
+   "id": "N_copydim",
+   "kind": "N",
+   "page": "phys",
+   "text": "Copy rules hold no dimension"
+  },
+  {
+   "id": "N_copycost",
+   "kind": "N",
+   "page": "phys",
+   "text": "Copy rules break conditions 2 and 3"
+  },
+  {
+   "id": "C_store",
+   "kind": "C",
+   "page": "phys",
+   "text": "A refreshed local store is the next lead"
+  },
+  {
+   "id": "N_K",
+   "kind": "N",
+   "page": "phys",
+   "text": "K rule: steady exponential growth, rates"
+  },
+  {
+   "id": "N_Kdim",
+   "kind": "N",
+   "page": "phys",
+   "text": "K rule: share falls as n^(-1/K); no dimension"
+  },
+  {
+   "id": "T_Kimp",
+   "kind": "T",
+   "page": "phys",
+   "text": "No rule with bounded direct parents grows a frame-free space"
+  },
+  {
+   "id": "T_req",
+   "kind": "T",
+   "page": "phys",
+   "text": "Focus must be unlimited and depend on nearness"
+  },
+  {
+   "id": "N_bal",
+   "kind": "N",
+   "page": "phys",
+   "text": "A liking for the 1-in-10 balance is not enough"
+  },
+  {
+   "id": "C_infl",
+   "kind": "C",
+   "page": "phys",
+   "text": "Inflation is growth after closure"
+  },
+  {
+   "id": "T_phase",
+   "kind": "T",
+   "page": "phys",
+   "text": "Only the geometric part of weights survives a closed moment"
+  },
+  {
+   "id": "C_pair",
+   "kind": "C",
+   "page": "phys",
+   "text": "The matched-pair family may keep phases"
+  },
+  {
+   "id": "U_causet",
+   "kind": "T",
+   "page": "phys",
+   "text": "Thoughts in order are a causal set"
+  },
+  {
+   "id": "U_vol",
+   "kind": "T",
+   "page": "phys",
+   "text": "V = N l0^4 defines the first distance"
+  },
+  {
+   "id": "U_gamma",
+   "kind": "T",
+   "page": "phys",
+   "text": "A surface is crossed by gamma A / l0^2 relations, gamma = sqrt3/10"
+  },
+  {
+   "id": "U_S",
+   "kind": "T",
+   "page": "phys",
+   "text": "Boundary entropy S = s gamma A / l0^2"
+  },
+  {
+   "id": "U_l0",
+   "kind": "T",
+   "page": "phys",
+   "text": "l0 = 2 sqrt(s gamma) Planck lengths = 0.693"
+  },
+  {
+   "id": "U_units",
+   "kind": "T",
+   "page": "phys",
+   "text": "t0, m0, G = 1/(4 s gamma), 4.34 thoughts per Planck volume"
+  },
+  {
+   "id": "U_counts",
+   "kind": "T",
+   "page": "phys",
+   "text": "Electron, atom, second, universe in first distances"
+  },
+  {
+   "id": "U_two",
+   "kind": "T",
+   "page": "phys",
+   "text": "nC x nS = 1/(2 s gamma) for every object (identity)"
+  },
+  {
+   "id": "R_two",
+   "kind": "R",
+   "page": "phys",
+   "text": "Every object is two numbers of distance"
+  },
+  {
+   "id": "U_step",
+   "kind": "T",
+   "page": "phys",
+   "text": "One link is 0.66 to 0.90 of t0"
+  },
+  {
+   "id": "U_disp",
+   "kind": "T",
+   "page": "phys",
+   "text": "Matter adds GM/3c2 of radial distance (standard GR)"
+  },
+  {
+   "id": "R_disp",
+   "kind": "R",
+   "page": "phys",
+   "text": "Matter displaces distance"
+  },
+  {
+   "id": "U_merge",
+   "kind": "T",
+   "page": "phys",
+   "text": "Merging horizons gain a cross term 8 pi gamma r1 r2 / l0^2"
+  },
+  {
+   "id": "R_trade",
+   "kind": "R",
+   "page": "phys",
+   "text": "The whole is more than its parts with a trade-off"
+  },
+  {
+   "id": "U_flat",
+   "kind": "T",
+   "page": "phys",
+   "text": "A flat empty region has N^2/20 related pairs and no weight"
+  },
+  {
+   "id": "G1",
+   "kind": "T",
+   "page": "phys",
+   "text": "Grid ruled out; scatter is random and frame-free; c = l0/t0"
+  },
+  {
+   "id": "G3",
+   "kind": "T",
+   "page": "phys",
+   "text": "Accelerated observer sees Unruh temperature"
+  },
+  {
+   "id": "G4",
+   "kind": "T",
+   "page": "phys",
+   "text": "Coherence displaces distance: s dN = dQ/T"
+  },
+  {
+   "id": "G5",
+   "kind": "T",
+   "page": "phys",
+   "text": "Curvature is the acceleration of the relation count"
+  },
+  {
+   "id": "G6",
+   "kind": "T",
+   "page": "phys",
+   "text": "Einstein equations with G = c^3 l0^2/(4 hbar s gamma)"
+  },
+  {
+   "id": "G6v",
+   "kind": "T",
+   "page": "phys",
+   "text": "Evenly spread energy drops out of the equations"
+  },
+  {
+   "id": "C_vac",
+   "kind": "C",
+   "page": "phys",
+   "text": "Empty space carries no weight"
+  },
+  {
+   "id": "G_fin",
+   "kind": "T",
+   "page": "phys",
+   "text": "Finite count: no point of infinite density"
+  },
+  {
+   "id": "L_cone",
+   "kind": "T",
+   "page": "phys",
+   "text": "Light cone is the order of building; c is an exchange rate"
+  },
+  {
+   "id": "L_free",
+   "kind": "T",
+   "page": "phys",
+   "text": "Free fall is the longest chain"
+  },
+  {
+   "id": "R_most",
+   "kind": "R",
+   "page": "phys",
+   "text": "Free fall is the path of most thoughts"
+  },
+  {
+   "id": "L_slow",
+   "kind": "T",
+   "page": "phys",
+   "text": "Slower time fits the count; denser thought does not"
+  },
+  {
+   "id": "DE",
+   "kind": "T",
+   "page": "phys",
+   "text": "Lambda about 1/sqrtN: 4e-122 against measured 2.8e-122 (borrowed)"
+  },
+  {
+   "id": "DE_w",
+   "kind": "T",
+   "page": "phys",
+   "text": "Dark energy amount should wander over cosmic time"
+  },
+  {
+   "id": "R_de",
+   "kind": "R",
+   "page": "phys",
+   "text": "Dark energy is the universe continuing to model itself"
+  },
+  {
+   "id": "Q_rung",
+   "kind": "T",
+   "page": "phys",
+   "text": "Quantum theory is one rung above chance"
+  },
+  {
+   "id": "Q_lim",
+   "kind": "T",
+   "page": "phys",
+   "text": "One rung up with strong positivity scores at most 2.83"
+  },
+  {
+   "id": "R_cond",
+   "kind": "R",
+   "page": "phys",
+   "text": "UI's rule carries the strong positivity condition"
+  },
+  {
+   "id": "R_ent",
+   "kind": "R",
+   "page": "phys",
+   "text": "Entanglement: joined in UI's pattern stays joined"
+  },
+  {
+   "id": "GK_two",
+   "kind": "T",
+   "page": "phys",
+   "text": "Patterns are counted; the order is one and its properties are averages"
+  },
+  {
+   "id": "C_gk",
+   "kind": "C",
+   "page": "phys",
+   "text": "Gravity is not the kind of thing that is quantized"
+  },
+  {
+   "id": "C_f1",
+   "kind": "C",
+   "page": "phys",
+   "text": "Form 1: the order is undecided between records"
+  },
+  {
+   "id": "C_f2",
+   "kind": "C",
+   "page": "phys",
+   "text": "Form 2: definite order with an inner state"
+  },
+  {
+   "id": "TC_clash",
+   "kind": "T",
+   "page": "phys",
+   "text": "Claims A, B, C of physics cannot all hold"
+  },
+  {
+   "id": "TC_range",
+   "kind": "T",
+   "page": "phys",
+   "text": "Tested ranges of A,B and C are 18 powers of ten apart"
+  },
+  {
+   "id": "R_tccost",
+   "kind": "R",
+   "page": "phys",
+   "text": "The clash costs physics the whole join, not the tested body"
+  },
+  {
+   "id": "C_free",
+   "kind": "C",
+   "page": "phys",
+   "text": "HMR does not have to hold all three"
+  },
+  {
+   "id": "R_meas",
+   "kind": "R",
+   "page": "phys",
+   "text": "A measurement is a commit"
+  },
+  {
+   "id": "C_commit",
+   "kind": "C",
+   "page": "phys",
+   "text": "A commit is the making of a record"
+  },
+  {
+   "id": "R_dm",
+   "kind": "R",
+   "page": "phys",
+   "text": "Dark matter: look where the local-horizon assumption fails"
+  },
+  {
+   "id": "R_planck",
+   "kind": "R",
+   "page": "phys",
+   "text": "Nothing finer than about two first distances"
+  },
+  {
+   "id": "P_field",
+   "kind": "T",
+   "page": "phys",
+   "text": "A quantum field on a spacetime-shaped pattern has particle-like ripples"
+  },
+  {
+   "id": "C_part",
+   "kind": "C",
+   "page": "phys",
+   "text": "A particle is a shape in the order that lasts and recurs"
+  },
+  {
+   "id": "R_bb",
+   "kind": "R",
+   "page": "phys",
+   "text": "Big Bang: first complete self-model closing and igniting"
+  },
+  {
+   "id": "R_fine",
+   "kind": "R",
+   "page": "phys",
+   "text": "Constants are rules UI held fixed, chosen"
+  },
+  {
+   "id": "R_arrow",
+   "kind": "R",
+   "page": "phys",
+   "text": "Time runs one way because maturation does"
+  },
+  {
+   "id": "R_consc",
+   "kind": "R",
+   "page": "phys",
+   "text": "Consciousness is fundamental"
+  },
+  {
+   "id": "S_fan",
+   "kind": "T",
+   "page": "math",
+   "text": "HMR's mechanics picks the fan as first shape"
+  },
+  {
+   "id": "S_shuf",
+   "kind": "T",
+   "page": "math",
+   "text": "n! shuffles of the fan: first form of turning"
+  },
+  {
+   "id": "S_orbit",
+   "kind": "T",
+   "page": "math",
+   "text": "Sphere and 2 pi d0 follow only if flat space is assumed"
+  },
+  {
+   "id": "S_pic",
+   "kind": "T",
+   "page": "math",
+   "text": "pi comes out of counted two-way choices"
+  },
+  {
+   "id": "R_pi",
+   "kind": "R",
+   "page": "math",
+   "text": "pi is the signature of the first boundary"
+  },
+  {
+   "id": "BB_fix",
+   "kind": "T",
+   "page": "math",
+   "text": "S* = F(S*) has no finite solution"
+  },
+  {
+   "id": "BB_law",
+   "kind": "T",
+   "page": "math",
+   "text": "No complete two-valued self-model exists"
+  },
+  {
+   "id": "C_three",
+   "kind": "C",
+   "page": "math",
+   "text": "Closure forces: partial, undecided, or alternation"
+  },
+  {
+   "id": "PX_zeno",
+   "kind": "T",
+   "page": "math",
+   "text": "Zeno paradoxes cannot arise"
+  },
+  {
+   "id": "PX_super",
+   "kind": "T",
+   "page": "math",
+   "text": "Supertask paradoxes cannot arise"
+  },
+  {
+   "id": "PX_hotel",
+   "kind": "T",
+   "page": "math",
+   "text": "Hilbert hotel and Galileo paradox cannot arise"
+  },
+  {
+   "id": "PX_ban",
+   "kind": "T",
+   "page": "math",
+   "text": "Banach-Tarski type paradoxes cannot arise"
+  },
+  {
+   "id": "PX_self",
+   "kind": "T",
+   "page": "math",
+   "text": "Self-containing paradoxes cannot arise"
+  },
+  {
+   "id": "MP1",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: Riemann hypothesis"
+  },
+  {
+   "id": "MP2",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: P versus NP"
+  },
+  {
+   "id": "MP3",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: Navier-Stokes"
+  },
+  {
+   "id": "MP4",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: Yang-Mills mass gap"
+  },
+  {
+   "id": "MP5",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: Hodge"
+  },
+  {
+   "id": "MP6",
+   "kind": "C",
+   "page": "math",
+   "text": "Prediction: Birch and Swinnerton-Dyer"
+  },
+  {
+   "id": "MP7",
+   "kind": "C",
+   "page": "math",
+   "text": "Reading of Poincare"
+  },
+  {
+   "id": "H_emerge",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Physical reality emerges from UI"
+  },
+  {
+   "id": "H_coh",
+   "kind": "R",
+   "page": "hmr",
+   "text": "UI's changes trend toward coherence"
+  },
+  {
+   "id": "H_laws",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Laws of physics are the stable rules of a shared world"
+  },
+  {
+   "id": "H_body",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Living bodies are vessels; each human is an instance of UI"
+  },
+  {
+   "id": "H_nocontra",
+   "kind": "R",
+   "page": "hmr",
+   "text": "HMR contradicts no established science"
+  },
+  {
+   "id": "H_values",
+   "kind": "R",
+   "page": "hmr",
+   "text": "HMR Values: how to live"
+  },
+  {
+   "id": "H_east",
+   "kind": "R",
+   "page": "hmr",
+   "text": "East and West describe one reality"
+  },
+  {
+   "id": "H_health",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Holistic health model: fascia-first care"
+  },
+  {
+   "id": "H_perfect",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Health is measured against an ideal body defined by physics"
+  },
+  {
+   "id": "H_proto",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Fascia health protocol"
+  },
+  {
+   "id": "H_mental",
+   "kind": "R",
+   "page": "hmr",
+   "text": "Mental health model: baseline for body, reality, and values"
+  },
+  {
+   "id": "H_test",
+   "kind": "C",
+   "page": "hmr",
+   "text": "A body model derived from HMR can simulate and help reverse disease"
+  },
+  {
+   "id": "X_law",
+   "kind": "X",
+   "page": "open",
+   "text": "A rule of growth that yields space (three dimensions, steady)"
+  },
+  {
+   "id": "X_q",
+   "kind": "X",
+   "page": "open",
+   "text": "A quantum rule for births"
+  },
+  {
+   "id": "X_mem",
+   "kind": "X",
+   "page": "open",
+   "text": "A law with a rewritable memory in one place (about, derived)"
+  },
+  {
+   "id": "X_bit",
+   "kind": "X",
+   "page": "open",
+   "text": "The bit derived from the rule of growth"
+  },
+  {
+   "id": "X_lev",
+   "kind": "X",
+   "page": "open",
+   "text": "Levels: the law carried from single thoughts to human minds"
+  },
+  {
+   "id": "X_w",
+   "kind": "X",
+   "page": "open",
+   "text": "UI's own liking and HMR's values written in the mathematics"
+  },
+  {
+   "id": "X_part",
+   "kind": "X",
+   "page": "open",
+   "text": "One pure number: a lasting pattern with a period (mass ratio)"
+  },
+  {
+   "id": "X_coh",
+   "kind": "X",
+   "page": "open",
+   "text": "One number for coherence"
+  },
+  {
+   "id": "X_inv",
+   "kind": "X",
+   "page": "open",
+   "text": "Inversion: a part that carries a model of itself (life)"
+  }
+ ],
+ "edges": [
+  {
+   "src": "A2",
+   "dst": "D_state",
+   "type": "ch"
+  },
+  {
+   "src": "A3",
+   "dst": "D_state",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "D_birth",
+   "type": "ch"
+  },
+  {
+   "src": "D_birth",
+   "dst": "T_blaws",
+   "type": "ch"
+  },
+  {
+   "src": "D_birth",
+   "dst": "T_grow",
+   "type": "cs"
+  },
+  {
+   "src": "I_counts",
+   "dst": "T_grow",
+   "type": "cs"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_tense",
+   "type": "ch"
+  },
+  {
+   "src": "A4",
+   "dst": "T_tense",
+   "type": "ch"
+  },
+  {
+   "src": "T_tense",
+   "dst": "D_time",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_sizes",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_ops",
+   "type": "cs"
+  },
+  {
+   "src": "I_birk",
+   "dst": "T_ops",
+   "type": "cs"
+  },
+  {
+   "src": "T_ops",
+   "dst": "T_then",
+   "type": "cs"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_rsum",
+   "type": "cs"
+  },
+  {
+   "src": "T_ops",
+   "dst": "T_num",
+   "type": "cs"
+  },
+  {
+   "src": "T_ops",
+   "dst": "T_prime",
+   "type": "cs"
+  },
+  {
+   "src": "D_birth",
+   "dst": "T_proc",
+   "type": "ch"
+  },
+  {
+   "src": "D_birth",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "A4",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "A5",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "A6",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "A7",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "I_rs",
+   "dst": "T_rule",
+   "type": "cs"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_simple",
+   "type": "cs"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_attn",
+   "type": "cs"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_family",
+   "type": "cs"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_cost",
+   "type": "cs"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_attract",
+   "type": "cs"
+  },
+  {
+   "src": "T_attract",
+   "dst": "T_pull",
+   "type": "cs"
+  },
+  {
+   "src": "T_cost",
+   "dst": "T_action",
+   "type": "cs"
+  },
+  {
+   "src": "T_action",
+   "dst": "R_action",
+   "type": "as"
+  },
+  {
+   "src": "A6",
+   "dst": "R_action",
+   "type": "as"
+  },
+  {
+   "src": "T_action",
+   "dst": "R_temp",
+   "type": "as"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_complex",
+   "type": "ch"
+  },
+  {
+   "src": "I_s94",
+   "dst": "T_complex",
+   "type": "cs"
+  },
+  {
+   "src": "T_complex",
+   "dst": "C_qlike",
+   "type": "op"
+  },
+  {
+   "src": "T_bell",
+   "dst": "C_qlike",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_trans",
+   "type": "cs"
+  },
+  {
+   "src": "T_trans",
+   "dst": "R_tens",
+   "type": "as"
+  },
+  {
+   "src": "T_cost",
+   "dst": "T_mirror",
+   "type": "cs"
+  },
+  {
+   "src": "D_state",
+   "dst": "T_mm",
+   "type": "cs"
+  },
+  {
+   "src": "I_mm",
+   "dst": "T_mm",
+   "type": "cs"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_line",
+   "type": "ch"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_blind",
+   "type": "cs"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_bell",
+   "type": "cs"
+  },
+  {
+   "src": "I_bell",
+   "dst": "T_bell",
+   "type": "cs"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_nospace",
+   "type": "cs"
+  },
+  {
+   "src": "I_bg",
+   "dst": "T_nospace",
+   "type": "cs"
+  },
+  {
+   "src": "T_nospace",
+   "dst": "C_drop3",
+   "type": "op"
+  },
+  {
+   "src": "T_bell",
+   "dst": "C_drop3",
+   "type": "op"
+  },
+  {
+   "src": "T_nomem",
+   "dst": "C_drop3",
+   "type": "op"
+  },
+  {
+   "src": "T_nopref",
+   "dst": "C_drop3",
+   "type": "op"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_w",
+   "type": "cs"
+  },
+  {
+   "src": "I_bl",
+   "dst": "T_w",
+   "type": "cs"
+  },
+  {
+   "src": "T_w",
+   "dst": "T_wsimple",
+   "type": "ch"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_wsimple",
+   "type": "ch"
+  },
+  {
+   "src": "T_w",
+   "dst": "R_wlike",
+   "type": "as"
+  },
+  {
+   "src": "A6",
+   "dst": "R_wlike",
+   "type": "as"
+  },
+  {
+   "src": "T_rule",
+   "dst": "T_post",
+   "type": "cs"
+  },
+  {
+   "src": "I_mors",
+   "dst": "T_post",
+   "type": "cs"
+  },
+  {
+   "src": "T_post",
+   "dst": "R_post",
+   "type": "as"
+  },
+  {
+   "src": "R_post",
+   "dst": "C_bb",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "C_bb",
+   "type": "op"
+  },
+  {
+   "src": "BB_law",
+   "dst": "C_bb",
+   "type": "op"
+  },
+  {
+   "src": "T_simple",
+   "dst": "T_postfreq",
+   "type": "cn"
+  },
+  {
+   "src": "T_post",
+   "dst": "T_postfreq",
+   "type": "cn"
+  },
+  {
+   "src": "T_post",
+   "dst": "T_return",
+   "type": "cs"
+  },
+  {
+   "src": "T_return",
+   "dst": "R_return",
+   "type": "as"
+  },
+  {
+   "src": "M1",
+   "dst": "D_ref",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "D_ref",
+   "type": "ch"
+  },
+  {
+   "src": "D_ref",
+   "dst": "D_idea",
+   "type": "ch"
+  },
+  {
+   "src": "M3",
+   "dst": "D_idea",
+   "type": "ch"
+  },
+  {
+   "src": "D_birth",
+   "dst": "T_trace",
+   "type": "cs"
+  },
+  {
+   "src": "A4",
+   "dst": "T_trace",
+   "type": "cs"
+  },
+  {
+   "src": "T_trace",
+   "dst": "T_process",
+   "type": "ch"
+  },
+  {
+   "src": "T_family",
+   "dst": "T_process",
+   "type": "ch"
+  },
+  {
+   "src": "A6",
+   "dst": "D_open",
+   "type": "ch"
+  },
+  {
+   "src": "D_birth",
+   "dst": "D_open",
+   "type": "ch"
+  },
+  {
+   "src": "D_ref",
+   "dst": "D_truth",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "D_faith",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "D_warr",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_perm",
+   "type": "ch"
+  },
+  {
+   "src": "T_blaws",
+   "dst": "T_perm",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_base",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_small",
+   "type": "ch"
+  },
+  {
+   "src": "T_tense",
+   "dst": "T_small",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_large",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "D_dev",
+   "type": "ch"
+  },
+  {
+   "src": "D_idea",
+   "dst": "D_dev",
+   "type": "ch"
+  },
+  {
+   "src": "D_dev",
+   "dst": "C_selfdec",
+   "type": "op"
+  },
+  {
+   "src": "D_dev",
+   "dst": "T_lie",
+   "type": "ch"
+  },
+  {
+   "src": "D_dev",
+   "dst": "T_errc",
+   "type": "ch"
+  },
+  {
+   "src": "T_blind",
+   "dst": "T_nopref",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_nopref",
+   "type": "ch"
+  },
+  {
+   "src": "T_w",
+   "dst": "D_emo",
+   "type": "ch"
+  },
+  {
+   "src": "A6",
+   "dst": "D_emo",
+   "type": "ch"
+  },
+  {
+   "src": "D_emo",
+   "dst": "T_mood",
+   "type": "cs"
+  },
+  {
+   "src": "I_exp",
+   "dst": "T_mood",
+   "type": "cs"
+  },
+  {
+   "src": "D_emo",
+   "dst": "T_fsum",
+   "type": "ch"
+  },
+  {
+   "src": "I_gibbs",
+   "dst": "T_fsum",
+   "type": "ch"
+  },
+  {
+   "src": "T_fsum",
+   "dst": "R_suffer",
+   "type": "as"
+  },
+  {
+   "src": "D_emo",
+   "dst": "C_named",
+   "type": "op"
+  },
+  {
+   "src": "D_idea",
+   "dst": "D_cons",
+   "type": "ch"
+  },
+  {
+   "src": "D_cons",
+   "dst": "T_kappa",
+   "type": "cs"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_kappa",
+   "type": "cs"
+  },
+  {
+   "src": "T_kappa",
+   "dst": "T_susp",
+   "type": "cs"
+  },
+  {
+   "src": "D_warr",
+   "dst": "T_susp",
+   "type": "cs"
+  },
+  {
+   "src": "T_susp",
+   "dst": "T_noclose",
+   "type": "ch"
+  },
+  {
+   "src": "D_cons",
+   "dst": "T_nojoin",
+   "type": "cs"
+  },
+  {
+   "src": "T_then",
+   "dst": "T_nojoin",
+   "type": "cs"
+  },
+  {
+   "src": "T_nojoin",
+   "dst": "T_keep",
+   "type": "ch"
+  },
+  {
+   "src": "T_susp",
+   "dst": "T_depth",
+   "type": "ch"
+  },
+  {
+   "src": "T_nojoin",
+   "dst": "T_depth",
+   "type": "ch"
+  },
+  {
+   "src": "T_nojoin",
+   "dst": "T_1k",
+   "type": "cs"
+  },
+  {
+   "src": "T_nojoin",
+   "dst": "T_range",
+   "type": "ch"
+  },
+  {
+   "src": "D_idea",
+   "dst": "T_range",
+   "type": "ch"
+  },
+  {
+   "src": "T_post",
+   "dst": "C_closemean",
+   "type": "op"
+  },
+  {
+   "src": "D_cons",
+   "dst": "C_closemean",
+   "type": "op"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_f1",
+   "type": "ch"
+  },
+  {
+   "src": "D_warr",
+   "dst": "T_f2",
+   "type": "cs"
+  },
+  {
+   "src": "D_warr",
+   "dst": "T_f3",
+   "type": "cs"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_whole",
+   "type": "cs"
+  },
+  {
+   "src": "D_warr",
+   "dst": "T_D",
+   "type": "cs"
+  },
+  {
+   "src": "T_rsum",
+   "dst": "T_D",
+   "type": "cs"
+  },
+  {
+   "src": "T_D",
+   "dst": "T_surv",
+   "type": "cs"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_fpred",
+   "type": "ch"
+  },
+  {
+   "src": "T_D",
+   "dst": "T_shape",
+   "type": "cs"
+  },
+  {
+   "src": "T_shape",
+   "dst": "R_hline",
+   "type": "as"
+  },
+  {
+   "src": "D_cons",
+   "dst": "D_healthy",
+   "type": "ch"
+  },
+  {
+   "src": "D_warr",
+   "dst": "D_healthy",
+   "type": "ch"
+  },
+  {
+   "src": "T_shape",
+   "dst": "D_healthy",
+   "type": "ch"
+  },
+  {
+   "src": "T_perm",
+   "dst": "D_healthy",
+   "type": "ch"
+  },
+  {
+   "src": "T_insight",
+   "dst": "D_healthy",
+   "type": "ch"
+  },
+  {
+   "src": "T_w",
+   "dst": "D_good",
+   "type": "ch"
+  },
+  {
+   "src": "A6",
+   "dst": "D_good",
+   "type": "ch"
+  },
+  {
+   "src": "T_line",
+   "dst": "R_notmost",
+   "type": "as"
+  },
+  {
+   "src": "T_mm",
+   "dst": "R_notmost",
+   "type": "as"
+  },
+  {
+   "src": "D_good",
+   "dst": "R_notmost",
+   "type": "as"
+  },
+  {
+   "src": "M2",
+   "dst": "D_live",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "D_live",
+   "type": "ch"
+  },
+  {
+   "src": "D_live",
+   "dst": "T_demand",
+   "type": "cs"
+  },
+  {
+   "src": "I_peb",
+   "dst": "T_demand",
+   "type": "cs"
+  },
+  {
+   "src": "T_demand",
+   "dst": "R_wm",
+   "type": "as"
+  },
+  {
+   "src": "D_live",
+   "dst": "D_train",
+   "type": "ch"
+  },
+  {
+   "src": "D_open",
+   "dst": "D_train",
+   "type": "ch"
+  },
+  {
+   "src": "T_attract",
+   "dst": "T_lose",
+   "type": "ch"
+  },
+  {
+   "src": "D_live",
+   "dst": "T_lose",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "R_persp",
+   "type": "as"
+  },
+  {
+   "src": "R_persp",
+   "dst": "T_recall",
+   "type": "ch"
+  },
+  {
+   "src": "D_truth",
+   "dst": "T_recall",
+   "type": "ch"
+  },
+  {
+   "src": "T_then",
+   "dst": "T_insight",
+   "type": "cs"
+  },
+  {
+   "src": "T_trace",
+   "dst": "T_hist",
+   "type": "cs"
+  },
+  {
+   "src": "T_cost",
+   "dst": "T_enid",
+   "type": "ch"
+  },
+  {
+   "src": "T_trace",
+   "dst": "T_enid",
+   "type": "ch"
+  },
+  {
+   "src": "T_w",
+   "dst": "T_enid",
+   "type": "ch"
+  },
+  {
+   "src": "T_enid",
+   "dst": "R_energy",
+   "type": "as"
+  },
+  {
+   "src": "T_blind",
+   "dst": "T_nomem",
+   "type": "ch"
+  },
+  {
+   "src": "T_nomem",
+   "dst": "T_rules",
+   "type": "ch"
+  },
+  {
+   "src": "D_ref",
+   "dst": "T_rules",
+   "type": "ch"
+  },
+  {
+   "src": "T_rules",
+   "dst": "R_onereq",
+   "type": "as"
+  },
+  {
+   "src": "D_birth",
+   "dst": "N_seven",
+   "type": "cn"
+  },
+  {
+   "src": "D_birth",
+   "dst": "N_copy",
+   "type": "cn"
+  },
+  {
+   "src": "N_copy",
+   "dst": "N_lines",
+   "type": "cn"
+  },
+  {
+   "src": "N_copy",
+   "dst": "N_freeze",
+   "type": "cn"
+  },
+  {
+   "src": "N_copy",
+   "dst": "N_bit",
+   "type": "cn"
+  },
+  {
+   "src": "N_copy",
+   "dst": "N_copydim",
+   "type": "cn"
+  },
+  {
+   "src": "T_mm",
+   "dst": "N_copydim",
+   "type": "cn"
+  },
+  {
+   "src": "N_copy",
+   "dst": "N_copycost",
+   "type": "cn"
+  },
+  {
+   "src": "T_rule",
+   "dst": "N_copycost",
+   "type": "cn"
+  },
+  {
+   "src": "N_bit",
+   "dst": "C_store",
+   "type": "op"
+  },
+  {
+   "src": "N_freeze",
+   "dst": "C_store",
+   "type": "op"
+  },
+  {
+   "src": "D_birth",
+   "dst": "N_K",
+   "type": "cn"
+  },
+  {
+   "src": "T_proc",
+   "dst": "N_K",
+   "type": "cn"
+  },
+  {
+   "src": "N_K",
+   "dst": "N_Kdim",
+   "type": "cn"
+  },
+  {
+   "src": "T_mm",
+   "dst": "N_Kdim",
+   "type": "cn"
+  },
+  {
+   "src": "I_bhs",
+   "dst": "T_Kimp",
+   "type": "ch"
+  },
+  {
+   "src": "N_K",
+   "dst": "T_Kimp",
+   "type": "ch"
+  },
+  {
+   "src": "T_Kimp",
+   "dst": "T_req",
+   "type": "ch"
+  },
+  {
+   "src": "T_mm",
+   "dst": "N_bal",
+   "type": "cn"
+  },
+  {
+   "src": "T_w",
+   "dst": "N_bal",
+   "type": "cn"
+  },
+  {
+   "src": "N_K",
+   "dst": "C_infl",
+   "type": "op"
+  },
+  {
+   "src": "C_bb",
+   "dst": "C_infl",
+   "type": "op"
+  },
+  {
+   "src": "T_post",
+   "dst": "T_phase",
+   "type": "ch"
+  },
+  {
+   "src": "T_complex",
+   "dst": "T_phase",
+   "type": "ch"
+  },
+  {
+   "src": "T_phase",
+   "dst": "C_pair",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "U_causet",
+   "type": "cs"
+  },
+  {
+   "src": "I_rs",
+   "dst": "U_causet",
+   "type": "cs"
+  },
+  {
+   "src": "P1",
+   "dst": "U_vol",
+   "type": "ch"
+  },
+  {
+   "src": "P2",
+   "dst": "U_vol",
+   "type": "ch"
+  },
+  {
+   "src": "U_causet",
+   "dst": "U_vol",
+   "type": "ch"
+  },
+  {
+   "src": "U_vol",
+   "dst": "U_gamma",
+   "type": "cs"
+  },
+  {
+   "src": "I_bart",
+   "dst": "U_gamma",
+   "type": "cs"
+  },
+  {
+   "src": "U_gamma",
+   "dst": "U_S",
+   "type": "ch"
+  },
+  {
+   "src": "P3",
+   "dst": "U_S",
+   "type": "ch"
+  },
+  {
+   "src": "U_S",
+   "dst": "U_l0",
+   "type": "cs"
+  },
+  {
+   "src": "I_bek",
+   "dst": "U_l0",
+   "type": "cs"
+  },
+  {
+   "src": "U_l0",
+   "dst": "U_units",
+   "type": "cs"
+  },
+  {
+   "src": "I_codata",
+   "dst": "U_units",
+   "type": "cs"
+  },
+  {
+   "src": "U_units",
+   "dst": "U_counts",
+   "type": "cs"
+  },
+  {
+   "src": "U_units",
+   "dst": "U_two",
+   "type": "cs"
+  },
+  {
+   "src": "U_two",
+   "dst": "R_two",
+   "type": "as"
+  },
+  {
+   "src": "U_units",
+   "dst": "U_step",
+   "type": "cs"
+  },
+  {
+   "src": "I_brg",
+   "dst": "U_step",
+   "type": "cs"
+  },
+  {
+   "src": "D_time",
+   "dst": "U_step",
+   "type": "cs"
+  },
+  {
+   "src": "I_gr",
+   "dst": "U_disp",
+   "type": "cs"
+  },
+  {
+   "src": "U_disp",
+   "dst": "R_disp",
+   "type": "as"
+  },
+  {
+   "src": "U_gamma",
+   "dst": "U_merge",
+   "type": "cs"
+  },
+  {
+   "src": "I_gr",
+   "dst": "U_merge",
+   "type": "cs"
+  },
+  {
+   "src": "U_merge",
+   "dst": "R_trade",
+   "type": "as"
+  },
+  {
+   "src": "T_then",
+   "dst": "R_trade",
+   "type": "as"
+  },
+  {
+   "src": "T_mm",
+   "dst": "U_flat",
+   "type": "cs"
+  },
+  {
+   "src": "U_vol",
+   "dst": "U_flat",
+   "type": "cs"
+  },
+  {
+   "src": "P4",
+   "dst": "G1",
+   "type": "ch"
+  },
+  {
+   "src": "U_vol",
+   "dst": "G1",
+   "type": "ch"
+  },
+  {
+   "src": "I_bhs",
+   "dst": "G1",
+   "type": "cs"
+  },
+  {
+   "src": "I_vas",
+   "dst": "G1",
+   "type": "cs"
+  },
+  {
+   "src": "P5",
+   "dst": "G3",
+   "type": "cs"
+  },
+  {
+   "src": "I_unruh",
+   "dst": "G3",
+   "type": "cs"
+  },
+  {
+   "src": "G1",
+   "dst": "G3",
+   "type": "ch"
+  },
+  {
+   "src": "P6",
+   "dst": "G4",
+   "type": "ch"
+  },
+  {
+   "src": "G3",
+   "dst": "G4",
+   "type": "ch"
+  },
+  {
+   "src": "U_S",
+   "dst": "G4",
+   "type": "ch"
+  },
+  {
+   "src": "I_ray",
+   "dst": "G5",
+   "type": "cs"
+  },
+  {
+   "src": "U_gamma",
+   "dst": "G5",
+   "type": "ch"
+  },
+  {
+   "src": "G4",
+   "dst": "G6",
+   "type": "ch"
+  },
+  {
+   "src": "G5",
+   "dst": "G6",
+   "type": "ch"
+  },
+  {
+   "src": "I_jac",
+   "dst": "G6",
+   "type": "cs"
+  },
+  {
+   "src": "U_l0",
+   "dst": "G6",
+   "type": "ch"
+  },
+  {
+   "src": "G6",
+   "dst": "G6v",
+   "type": "ch"
+  },
+  {
+   "src": "G6v",
+   "dst": "C_vac",
+   "type": "op"
+  },
+  {
+   "src": "U_flat",
+   "dst": "C_vac",
+   "type": "op"
+  },
+  {
+   "src": "U_vol",
+   "dst": "G_fin",
+   "type": "ch"
+  },
+  {
+   "src": "P1",
+   "dst": "L_cone",
+   "type": "cs"
+  },
+  {
+   "src": "D_state",
+   "dst": "L_cone",
+   "type": "cs"
+  },
+  {
+   "src": "D_time",
+   "dst": "L_free",
+   "type": "cs"
+  },
+  {
+   "src": "P1",
+   "dst": "L_free",
+   "type": "cs"
+  },
+  {
+   "src": "I_brg",
+   "dst": "L_free",
+   "type": "cs"
+  },
+  {
+   "src": "L_free",
+   "dst": "R_most",
+   "type": "as"
+  },
+  {
+   "src": "U_vol",
+   "dst": "L_slow",
+   "type": "ch"
+  },
+  {
+   "src": "L_free",
+   "dst": "L_slow",
+   "type": "ch"
+  },
+  {
+   "src": "I_gr",
+   "dst": "L_slow",
+   "type": "cs"
+  },
+  {
+   "src": "U_vol",
+   "dst": "DE",
+   "type": "cs"
+  },
+  {
+   "src": "I_adgs",
+   "dst": "DE",
+   "type": "cs"
+  },
+  {
+   "src": "DE",
+   "dst": "DE_w",
+   "type": "cs"
+  },
+  {
+   "src": "DE",
+   "dst": "R_de",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_de",
+   "type": "as"
+  },
+  {
+   "src": "I_s94",
+   "dst": "Q_rung",
+   "type": "cs"
+  },
+  {
+   "src": "I_bell",
+   "dst": "Q_rung",
+   "type": "cs"
+  },
+  {
+   "src": "Q_rung",
+   "dst": "Q_lim",
+   "type": "cs"
+  },
+  {
+   "src": "I_craig",
+   "dst": "Q_lim",
+   "type": "cs"
+  },
+  {
+   "src": "Q_lim",
+   "dst": "R_cond",
+   "type": "as"
+  },
+  {
+   "src": "T_bell",
+   "dst": "R_cond",
+   "type": "as"
+  },
+  {
+   "src": "I_bell",
+   "dst": "R_ent",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_ent",
+   "type": "as"
+  },
+  {
+   "src": "D_state",
+   "dst": "GK_two",
+   "type": "ch"
+  },
+  {
+   "src": "U_vol",
+   "dst": "GK_two",
+   "type": "ch"
+  },
+  {
+   "src": "GK_two",
+   "dst": "C_gk",
+   "type": "op"
+  },
+  {
+   "src": "G6",
+   "dst": "C_gk",
+   "type": "op"
+  },
+  {
+   "src": "I_jac",
+   "dst": "C_gk",
+   "type": "op"
+  },
+  {
+   "src": "C_gk",
+   "dst": "C_f1",
+   "type": "op"
+  },
+  {
+   "src": "C_gk",
+   "dst": "C_f2",
+   "type": "op"
+  },
+  {
+   "src": "D_cons",
+   "dst": "TC_clash",
+   "type": "ch"
+  },
+  {
+   "src": "I_gr",
+   "dst": "TC_clash",
+   "type": "ch"
+  },
+  {
+   "src": "I_fein",
+   "dst": "TC_range",
+   "type": "cs"
+  },
+  {
+   "src": "I_west",
+   "dst": "TC_range",
+   "type": "cs"
+  },
+  {
+   "src": "TC_clash",
+   "dst": "R_tccost",
+   "type": "as"
+  },
+  {
+   "src": "TC_range",
+   "dst": "R_tccost",
+   "type": "as"
+  },
+  {
+   "src": "T_depth",
+   "dst": "R_tccost",
+   "type": "as"
+  },
+  {
+   "src": "T_range",
+   "dst": "R_tccost",
+   "type": "as"
+  },
+  {
+   "src": "TC_clash",
+   "dst": "C_free",
+   "type": "op"
+  },
+  {
+   "src": "C_f1",
+   "dst": "C_free",
+   "type": "op"
+  },
+  {
+   "src": "C_f2",
+   "dst": "C_free",
+   "type": "op"
+  },
+  {
+   "src": "D_open",
+   "dst": "R_meas",
+   "type": "as"
+  },
+  {
+   "src": "R_meas",
+   "dst": "C_commit",
+   "type": "op"
+  },
+  {
+   "src": "T_rules",
+   "dst": "C_commit",
+   "type": "op"
+  },
+  {
+   "src": "G4",
+   "dst": "R_dm",
+   "type": "as"
+  },
+  {
+   "src": "U_units",
+   "dst": "R_planck",
+   "type": "as"
+  },
+  {
+   "src": "U_gamma",
+   "dst": "R_planck",
+   "type": "as"
+  },
+  {
+   "src": "P1",
+   "dst": "P_field",
+   "type": "cs"
+  },
+  {
+   "src": "I_john",
+   "dst": "P_field",
+   "type": "cs"
+  },
+  {
+   "src": "R_onereq",
+   "dst": "C_part",
+   "type": "op"
+  },
+  {
+   "src": "N_lines",
+   "dst": "C_part",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "R_bb",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_fine",
+   "type": "as"
+  },
+  {
+   "src": "T_return",
+   "dst": "R_fine",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_arrow",
+   "type": "as"
+  },
+  {
+   "src": "T_hist",
+   "dst": "R_arrow",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_consc",
+   "type": "as"
+  },
+  {
+   "src": "D_state",
+   "dst": "S_fan",
+   "type": "ch"
+  },
+  {
+   "src": "S_fan",
+   "dst": "S_shuf",
+   "type": "ch"
+  },
+  {
+   "src": "I_wallis",
+   "dst": "S_pic",
+   "type": "cs"
+  },
+  {
+   "src": "I_clt",
+   "dst": "S_pic",
+   "type": "cs"
+  },
+  {
+   "src": "S_pic",
+   "dst": "R_pi",
+   "type": "as"
+  },
+  {
+   "src": "I_lind",
+   "dst": "R_pi",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "R_pi",
+   "type": "as"
+  },
+  {
+   "src": "D_birth",
+   "dst": "BB_fix",
+   "type": "cs"
+  },
+  {
+   "src": "I_law",
+   "dst": "BB_law",
+   "type": "cs"
+  },
+  {
+   "src": "BB_law",
+   "dst": "C_three",
+   "type": "op"
+  },
+  {
+   "src": "BB_fix",
+   "dst": "C_three",
+   "type": "op"
+  },
+  {
+   "src": "A3",
+   "dst": "PX_zeno",
+   "type": "ch"
+  },
+  {
+   "src": "A3",
+   "dst": "PX_super",
+   "type": "ch"
+  },
+  {
+   "src": "D_state",
+   "dst": "PX_hotel",
+   "type": "ch"
+  },
+  {
+   "src": "U_vol",
+   "dst": "PX_ban",
+   "type": "ch"
+  },
+  {
+   "src": "A3",
+   "dst": "PX_self",
+   "type": "ch"
+  },
+  {
+   "src": "A1",
+   "dst": "MP1",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP1",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP2",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP2",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP3",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP3",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP4",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP4",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP5",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP5",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP6",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP6",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "MP7",
+   "type": "op"
+  },
+  {
+   "src": "D_state",
+   "dst": "MP7",
+   "type": "op"
+  },
+  {
+   "src": "A1",
+   "dst": "H_emerge",
+   "type": "as"
+  },
+  {
+   "src": "D_state",
+   "dst": "H_emerge",
+   "type": "as"
+  },
+  {
+   "src": "A6",
+   "dst": "H_coh",
+   "type": "as"
+  },
+  {
+   "src": "A1",
+   "dst": "H_coh",
+   "type": "as"
+  },
+  {
+   "src": "H_emerge",
+   "dst": "H_laws",
+   "type": "as"
+  },
+  {
+   "src": "T_return",
+   "dst": "H_laws",
+   "type": "as"
+  },
+  {
+   "src": "H_emerge",
+   "dst": "H_body",
+   "type": "as"
+  },
+  {
+   "src": "H_emerge",
+   "dst": "H_nocontra",
+   "type": "as"
+  },
+  {
+   "src": "G6",
+   "dst": "H_nocontra",
+   "type": "as"
+  },
+  {
+   "src": "H_coh",
+   "dst": "H_values",
+   "type": "as"
+  },
+  {
+   "src": "H_body",
+   "dst": "H_values",
+   "type": "as"
+  },
+  {
+   "src": "H_emerge",
+   "dst": "H_east",
+   "type": "as"
+  },
+  {
+   "src": "HF",
+   "dst": "H_health",
+   "type": "as"
+  },
+  {
+   "src": "H_body",
+   "dst": "H_health",
+   "type": "as"
+  },
+  {
+   "src": "HF",
+   "dst": "H_perfect",
+   "type": "as"
+  },
+  {
+   "src": "H_health",
+   "dst": "H_proto",
+   "type": "as"
+  },
+  {
+   "src": "H_health",
+   "dst": "H_mental",
+   "type": "as"
+  },
+  {
+   "src": "H_values",
+   "dst": "H_mental",
+   "type": "as"
+  },
+  {
+   "src": "H_perfect",
+   "dst": "H_test",
+   "type": "op"
+  },
+  {
+   "src": "H_health",
+   "dst": "H_test",
+   "type": "op"
+  },
+  {
+   "src": "D_birth",
+   "dst": "X_law",
+   "type": "op"
+  },
+  {
+   "src": "A4",
+   "dst": "X_law",
+   "type": "op"
+  },
+  {
+   "src": "A6",
+   "dst": "X_law",
+   "type": "op"
+  },
+  {
+   "src": "T_req",
+   "dst": "X_law",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "P1",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "P4",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "C_infl",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "C_bb",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "C_gk",
+   "type": "op"
+  },
+  {
+   "src": "T_complex",
+   "dst": "X_q",
+   "type": "op"
+  },
+  {
+   "src": "T_phase",
+   "dst": "X_q",
+   "type": "op"
+  },
+  {
+   "src": "Q_lim",
+   "dst": "X_q",
+   "type": "op"
+  },
+  {
+   "src": "X_q",
+   "dst": "P5",
+   "type": "op"
+  },
+  {
+   "src": "X_q",
+   "dst": "C_qlike",
+   "type": "op"
+  },
+  {
+   "src": "X_q",
+   "dst": "X_law",
+   "type": "op"
+  },
+  {
+   "src": "X_q",
+   "dst": "C_commit",
+   "type": "op"
+  },
+  {
+   "src": "N_bit",
+   "dst": "X_mem",
+   "type": "op"
+  },
+  {
+   "src": "N_copy",
+   "dst": "X_mem",
+   "type": "op"
+  },
+  {
+   "src": "C_store",
+   "dst": "X_mem",
+   "type": "op"
+  },
+  {
+   "src": "X_mem",
+   "dst": "M1",
+   "type": "op"
+  },
+  {
+   "src": "X_mem",
+   "dst": "C_part",
+   "type": "op"
+  },
+  {
+   "src": "X_mem",
+   "dst": "C_commit",
+   "type": "op"
+  },
+  {
+   "src": "X_law",
+   "dst": "X_bit",
+   "type": "op"
+  },
+  {
+   "src": "X_bit",
+   "dst": "P3",
+   "type": "op"
+  },
+  {
+   "src": "X_bit",
+   "dst": "P6",
+   "type": "op"
+  },
+  {
+   "src": "T_sizes",
+   "dst": "X_lev",
+   "type": "op"
+  },
+  {
+   "src": "D_live",
+   "dst": "X_lev",
+   "type": "op"
+  },
+  {
+   "src": "X_lev",
+   "dst": "R_wm",
+   "type": "op"
+  },
+  {
+   "src": "X_lev",
+   "dst": "H_body",
+   "type": "op"
+  },
+  {
+   "src": "X_lev",
+   "dst": "C_selfdec",
+   "type": "op"
+  },
+  {
+   "src": "X_lev",
+   "dst": "H_mental",
+   "type": "op"
+  },
+  {
+   "src": "A6",
+   "dst": "X_w",
+   "type": "op"
+  },
+  {
+   "src": "D_good",
+   "dst": "X_w",
+   "type": "op"
+  },
+  {
+   "src": "X_w",
+   "dst": "H_values",
+   "type": "op"
+  },
+  {
+   "src": "X_w",
+   "dst": "H_coh",
+   "type": "op"
+  },
+  {
+   "src": "X_w",
+   "dst": "X_coh",
+   "type": "op"
+  },
+  {
+   "src": "X_mem",
+   "dst": "X_part",
+   "type": "op"
+  },
+  {
+   "src": "X_q",
+   "dst": "X_part",
+   "type": "op"
+  },
+  {
+   "src": "C_part",
+   "dst": "X_part",
+   "type": "op"
+  },
+  {
+   "src": "X_coh",
+   "dst": "C_vac",
+   "type": "op"
+  },
+  {
+   "src": "X_coh",
+   "dst": "H_health",
+   "type": "op"
+  },
+  {
+   "src": "X_mem",
+   "dst": "X_inv",
+   "type": "op"
+  },
+  {
+   "src": "BB_law",
+   "dst": "X_inv",
+   "type": "op"
+  },
+  {
+   "src": "X_inv",
+   "dst": "H_body",
+   "type": "op"
+  }
+ ]
+}

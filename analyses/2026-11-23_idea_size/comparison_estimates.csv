@@ -1,0 +1,17 @@
+idea,status_under_V2,n_low,n_high,a_starting_claims,strict_R_low,strict_R_high,lenient_R_low,lenient_R_high,basis
+HMR (math + physics + top page),one certified piece of 173 claims + 69 unattached claims,250,250,17,247,1159,1571,1571,COMPUTED from hmr_graph.json (one coder)
+Formal ZFC-style mathematics (Lean Mathlib as the certified instance),one idea; all of mathematics with rival foundations is a discipline,200000,350000,3 to 9,1e7,1e9,1e7,1e9,ESTIMATE from memory: Mathlib size about 2e5 theorems; mean ancestors 1e2 to 1e4 guessed
+Quantum theory with special relativity (Standard Model),one idea in its tested range; largest single idea inside physics,2000,20000,30 to 40 (postulates + field content + about 19 to 26 measured parameters),4e4,1e6,4e4,1e6,ESTIMATE from memory; R = n x mean ancestors (20 to 60)
+Quantum mechanics (non-relativistic),one idea,500,5000,5,5e3,2e5,5e3,2e5,ESTIMATE from memory
+General relativity,one idea in its tested range,300,3000,4,3e3,1e5,3e3,1e5,ESTIMATE from memory
+Euclid's Elements,one idea; proofs have known gaps at the roots (Book I machine-checked with added axioms),475,606,10 (+131 definitions),1.5e4,6e4,1.5e4,6e4,ESTIMATE from memory: 465 propositions 5 postulates 5 common notions; mean ancestors 40 to 120 guessed
+Spinoza's Ethics,one idea as published; validity of several demonstrations disputed; no full formal check known to us,300,400,17 axioms and postulates (+26 definitions),0,1.6e4,5e3,1.6e4,ESTIMATE from memory: 259 propositions (36+49+59+73+42); mean ancestors 20 to 60 guessed
+Evolution by natural selection,one idea; wide and shallow (fan-like) and heavily grounded,200,2000,4,1e3,2e4,1e3,2e4,ESTIMATE from memory
+Aquinas' Summa (Abrahamic theism systematized),strict near 0 (roots by revelation); as published a large argued system,2669,2669,dozens,0,1e2,1e4,1e5,ESTIMATE from memory: 512 questions 2669 articles
+Abrahamic theism (core creed),asserted,15,50,5 to 13,0,10,1e2,1e3,ESTIMATE from memory
+Vedanta (Advaita core / Brahma Sutras),asserted and argued from scripture,20,555,3 to 6,0,10,1e2,1e4,ESTIMATE from memory: 555 sutras
+Buddhism (core doctrine),asserted; a few leaf claims measured (clinical),40,80,4 to 8,0,50,2e2,1e3,ESTIMATE from memory: 4 truths 8-fold path 12 links (a line of 12 holds 66 pairs)
+Marxism,asserted with a few proved theorems; known internal conflict (values against prices),50,150,5,10,1e2,5e2,2e3,ESTIMATE from memory
+Darwinian naturalism (worldview),its root claim certifies nothing; certified content is borrowed science,30,100,3 to 5,0,1e2,1e2,1e3,ESTIMATE from memory
+Physics as a whole,DISCIPLINE: GR and quantum theory clash at the roots (claims A B C); no join,,,,,,,,V2 contradiction section + physics page three-claims section
+Mathematics as a whole,DISCIPLINE: rival foundations cannot be joined; unformalized literature is not one certified graph,,,,,,,,V2 definition

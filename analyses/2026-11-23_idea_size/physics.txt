@@ -1,0 +1,550 @@
+
+ Solutions
+# HMR physics paradigm.
+ HMR keeps every equation physics has confirmed. What it changes is the framework the equations are read in: space, time, and matter are not the bottom layer of reality, Universal Intelligence (UI) is. Read that way, physics' open problems change shape. This page sets them side by side, then makes a serious attempt at the hardest one, gravity.
+ Version 2, November 23, 2026. Version 1: November 20, 2026. Every version, proof, and script: HMR Physics on GitHub →
+@@SECTION version
+ Version note
+## Version 2, November 23, 2026
+### What was wrong with Version 1
+It described thoughts and how they pile up, not thinking. Nothing in it could be true, false, or a lie, and it had no emotion and no memory. It also read one rule of steady growth as a candidate for inflation without testing whether what grows is a space.
+### What Version 2 adds
+Definitions of truth, mistakes, lies, and emotion. An exact answer to what one false part does to an idea, and what a contradiction costs, derived and not scored. Proofs checked by computer on every small pattern. Two negative results: Version 1's rules cannot remember, and no rule we tested holds a dimension. One positive: rules that copy shapes do remember.
+### What we are trying to accomplish
+One mathematics, built only from thoughts and the act of thinking, that gives a simple answer for matter, space, gravity, energy, time, and thought, and that is tested against what science has measured.
+### Where we are falling short
+How a thought comes to be “about” another is still open. The definitions are proved for single thoughts, not for human minds. No rule yet grows space, holds a memory in one place, or makes a particle. We predict no number that physics lacks, and we have made no progress on any famous open problem.
+ History. Version 1, November 20, 2026: six assumptions, the exact family of growth rules, and the route to Einstein's equations. Every version, proof, and script: HMR Physics on GitHub →
+ Side by side
+## The open problems of physics, reframed.
+ Each row is a question physics has not settled. In the right column, how HMR reframes it. These are HMR's readings.
+ Question
+Physics today
+As HMR reframes it
+ The Big Bang
+The universe expanded from a hot, dense state 13.8 billion years ago. Before the first 10-43 seconds the theories fail, and why it happened at all is not addressed.
+The moment UI's first complete model of itself closed and ignited: a thought exploding into a greater thought, not matter appearing from nothing. Defining Universal Intelligence, step 3
+ Inflation
+A brief burst of exponential expansion fits the observations well, but the field that drove it is hypothetical.
+HMR conjectures that inflation is growth after the first complete model closed. HMR conjecture One rule of growth gives steady exponential growth in the count. When each new thought builds on a fixed number K of earlier thoughts, chosen evenly from everything thought so far, the number of thoughts side by side multiplies at a steady rate of about 0.4/K per step, for as long as the rule holds. numerical A second term in the rule brings the growth to an end. Version 2 found that what grows in that rule has no dimension, so no rule stands behind the conjecture yet (why). Matching its rate, its length, and its ripples to the sky: in progress The runs
+ Gravity
+Mass and energy curve spacetime. Gravity has no quantum description, and the equations give infinities at black holes and the Big Bang.
+Reality's trend toward coherence: coherent arrangements displace distance. Written out, this leads to Einstein's equations, with three steps still open. The route, below Version 2 adds a conjecture about what kind of thing gravity is: not a field to be quantized, but the large-scale behavior of the order of thoughts. Which of two forms it takes is open, and we are still working on it. The open question
+ Dark energy (about 68%)
+A placeholder for whatever makes the expansion speed up. The predicted vacuum energy misses by about 10120.
+Not a substance. The continuing work of the universe modeling itself: new relations, and with them new distance. Saying that the contents shrink instead describes the same observations in other units; counted in first distances, it is space that grows. HMR reading The amount has a formula. If space-time is a count of N thoughts, the count wanders by about its square root, and the cosmological constant with it: Λ ≈ 1/√N. With one thought per Planck volume in our past that is 4 × 10-122, and the measured value is 2.8 × 10-122. established Rafael Sorkin's argument from causal set theory, made about a decade before dark energy was found (Ahmed, Dodelson, Greene, and Sorkin, 2004). The formula is causal set theory's, not HMR's. It implies the amount should wander over cosmic time, which is a test (Dark energy and dark matter). The number in front depends on the exact size of the first distance: in progress
+ Dark matter (about 27%)
+Galaxies move as if they held far more mass than we can see. No dark matter particle has been found.
+No worked-out answer yet. The evidence is extra gravity, not a detected substance, and in HMR gravity belongs to the pattern of distance, so it need not be a particle. Until the mathematics reproduces how a galaxy turns, this is a hypothesis without a mechanism. Version 2 names a place to look, and HMR still has no mechanism (here).
+ Empty space
+Quantum theory fills the vacuum with jittering fields whose energy should be enormous; measurement says it is tiny.
+Empty space is not a sea of things. Only structure in the relations carries weight; an even background of relations does not. In HMR's route to gravity, evenly spread energy drops out of the equations. That empty space carries no weight is HMR's conjecture. HMR conjecture The size of the small amount that remains is taken up in the dark energy row above.
+ Measurement
+Quantum systems hold many possibilities until measured. What a measurement is remains disputed after a century.
+A measurement is an instance of UI making one possibility definite in its own experience. Consciousness is not a late arrival; it is the ground of the process. In Version 2 a measurement is a commit: the making of a record. Not every thought is a commit, and no rule yet says when one happens (here).
+ Entanglement
+Two particles far apart stay correlated in ways no signal could carry; Einstein called it "spooky".
+Distance was mechanized by UI, not fundamental. Things joined in UI's pattern stay joined however far apart they are placed, and the joining can be handed on: particles that never met become linked when their partners are measured together (Jennewein and others, 2002). established Ordinary chance cannot link outcomes this strongly; a rule one rung above chance can, up to exactly the limit seen. The road to quantum mechanics
+ The speed of light
+A universal maximum speed, taken as a postulate.
+A change can reach only what is built on it. That order of building is the light cone, the same for every observer, and nothing gets ahead of it. The speed of light is the exchange rate between a step of time and a unit of distance. established for any pattern shaped like spacetime The derivation
+ The Planck scale
+Below about 1.6 × 10-35 m, known physics loses meaning. Nobody has measured this length: it is worked out from three measured constants, G, ħ, and c. The smallest distances probed so far are about 1015 times larger.
+The first distance, the unit of one, is the Planck length, to within the factor of a few that also separates the standard definitions of the Planck length from one another. It is set by one thought per unit of volume of space and time: the unit is a volume first and a length second. exact in HMR There is no finer count, because nothing was ever divided below one thought. A grain of volume, unlike a grain of length, looks the same to observers moving at any speed (Bombelli, Henson, and Sorkin, 2009). established Something of note does happen there: anything pinned down to about two first distances sits inside its own horizon, a horizon crossed by only about nine relations around about seventeen thoughts. That is too few to have a shape, so there is nothing finer to find. HMR reading Fixing the factor at exactly one needs the strength of gravity derived from the rule of growth: in progress The calculation
+ Fine-tuning
+Many constants sit in the narrow range that allows atoms, stars, and life. Explanations range from chance to a multiverse.
+The constants are the rules UI held fixed so that many beings could share one stable world. They are chosen, not lucky.
+ The arrow of time
+The laws run equally well backward; time's direction is traced to the low entropy of the beginning.
+Time is the sequence of UI's thought, and it runs one way because maturation does. Coherence grows locally while total entropy rises; for gravity, clumping into structure is itself the high-entropy direction, so the two fit together. Version 2 proves that the number of possible histories of a pattern never falls. It rises only because the count of thoughts rises, so this is not yet the second law for matter.
+ Consciousness
+Not part of physics. Why any physical process is felt from the inside is called the hard problem.
+Fundamental. Physics describes the stable rules inside an experience; it was never going to find experience inside its rules.
+@@SECTION how-made
+ A known limit
+## Where AI takes over
+ Many people are asking AI to solve the open problems of science directly, and finding that it struggles. Our hypothesis is that the missing piece is the starting point: once a human idea is complete enough, it becomes the context from which AI can produce the mathematics and physics.
+ We are proud of this work, and we have taken the idea as far as we can. Past that point, as anyone would today, we let AI run with it beyond our own depth.
+ Computer scientists are the people who stand between an idea like this and what AI can do with it. With your help, what is written here can be made rigorously mathematical, given back to AI, and sharpened round after round, further than we can take it alone. If this is the problem you want to work on, see the Collaborators page.
+@@SECTION mechanics
+ The mechanics, in physical units
+## What one thought is worth.
+ The Math page builds a mathematics whose only object is a thought. This section asks what that gives physics: a unit, a way to write any object as numbers of that unit, an exact form of one of HMR's ideas about gravity, and a plain list of what is missing.
+ The short version: the unit and the counts are exact arithmetic once three assumptions are granted. The rule for how thoughts follow one another gives time. Space, particles, and the constants of nature are what the task force is working toward.
+ The labels
+ established Proven, or arithmetic we recomputed.
+ exact in HMR A premise restated, nothing added.
+ HMR reading It fits; nothing forces it.
+ HMR conjecture Could turn out false.
+ in progress HMR has a direction here, and the task force is working out the mathematics.
+ numerical Measured in computer runs. It is not a proof.
+ open No physics yet.
+### The unit
+ Three things are assumed, and each is marked where it enters the gravity route below.
+ The order of thoughts is spacetime-like in the large, so that volume is the number of thoughts: V = N ℓ₀⁴. This defines ℓ₀. Whether a grown order is spacetime-like: open in science
+ A surface of area A is crossed by γ A/ℓ₀² relations of the kind counted there, with γ = √3/10. established for random scatters
+ Each crossing relation carries one two-way distinction, s = ln 2 of entropy. an assumption of HMR What would confirm it: deriving s from the rule of growth.
+ With those, and the gravity route, the unit follows:
+ Quantity
+Formula
+Value
+ First distance, ℓ₀
+2 √(s γ) Planck lengths
+0.6930 ℓP1.120 × 10⁻³⁵ m
+ Step of time, t₀
+ℓ₀ / c
+3.736 × 10⁻⁴⁴ s
+ Unit of mass, m₀
+ħ / (c ℓ₀)
+3.141 × 10⁻⁸ kg
+ Unit of energy
+ħ c / ℓ₀
+1.762 × 10¹⁹ GeV
+ Unit of temperature
+energy / kB
+2.04 × 10³² K
+ Newton's G, in these units
+1 / (4 s γ)
+2.082
+ Thoughts per Planck volume of spacetime
+(ℓP / ℓ₀)⁴
+4.34
+ Recomputed from CODATA 2022 values by all three researchers. established arithmetic, given the three assumptions. It is not a prediction: the trade is G for ℓ₀. The closeness of 0.6930 to ln 2 = 0.6931 is a coincidence of rounding. With another reasonable rule for which relations to count, the unit comes out at more than two Planck lengths, so its size is a convention to within a factor of about three.
+ Taken from measurement
+ The speed of light, Planck's constant ħ, and Boltzmann's constant kB are conversion factors between human units and the unit above. ħ and kB are borrowed from physics. HMR does not derive them. One two-way distinction is kB ln 2 of entropy, which is the definition of a bit. established
+ One step of time
+ Time, for anything in the pattern, is counted along its own chain of thoughts: one step of time is one link in the longest chain between two events. Links have no fixed length in a scatter with no preferred frame. Along a long chain, one link is on average 0.66 to 0.90 of t₀. established for random scatters. The first distance as a link: HMR reading
+ Smaller than the first distance?
+ Lengths below ℓ₀ do appear as calculated quantities: a proton's gravitational radius is 2 × 10⁻¹⁹ of a unit. So “there is no smaller length” has to be read as “there is no finer count of thoughts”.
+ Where the first distance falls depends on which crossing relations are counted and on how much each one carries. The counts put it between about 0.7 and 3 Planck lengths.
+### Familiar things, counted in first distances
+ 3.4 × 10²²
+### An electron
+Its quantum wavelength (Compton length), in units of ℓ₀.
+ 4.7 × 10²⁴
+### An atom
+The radius of hydrogen, in units of ℓ₀.
+ 2.7 × 10⁴³
+### One second
+In steps of t₀.
+ 3.9 × 10⁶¹
+### The observable universe
+Its radius, in units of ℓ₀.
+ Also: one meter is 8.9 × 10³⁴ units; a proton's Compton length is 1.9 × 10¹⁹; the age of the universe is 1.2 × 10⁶¹ steps; room temperature, written as a length, is 7 × 10²⁹ units. Light things are long. If the order is spacetime-like, a cubic meter lasting one second holds about 2 × 10¹⁴⁸ thoughts. established arithmetic
+### Every object as two numbers of distance
+ HMR proposes that distance is the fundamental quantity, and that every object could be reduced to numbers of distance that carry all of its energy. For the total energy of an object at rest, this is literally true, in two ways at once.
+ nC = Compton length / ℓ₀nS = gravitational radius / ℓ₀nC × nS = 1 / (2 s γ) = 4.165
+ The first number falls as energy rises and the second rises, so their product is the same for every object.
+ For a hydrogen atom, nC = 1.877 × 10¹⁹ and nS = 2.219 × 10⁻¹⁹. The energy that goes into those numbers already includes mass, motion, binding, and the energy tied to spin.
+ established arithmetic. It is an identity, not a finding: the product of the two lengths is twice the Planck area for any mass in any system of units. HMR reading for the proposal, and it is matched for total energy only. Spin and charge are pure numbers, not distances, and neither n is a whole number.
+ Matter adds distance inside itself. A ball of matter has more distance from its surface to its center than its surface area predicts, by G M / (3 c²): 1.5 millimeters for the Earth, about 490 meters for the Sun. This is standard general relativity, and it is the closest thing in physics to HMR's “matter displaces distance”. established as displacement: a reading
+ Not to scale: the red tips are drawn millions of times too long. The extra distance is G M / (3 c²) for a ball of even density.
+ The whole and its parts
+ HMR's idea is that two things together are more than the two apart, with a trade-off. In counts, that is exact. When two black holes with horizons of radius r₁ and r₂ merge, the number of relations crossing the horizon gains a cross term, up to
+ 8 π γ r₁ r₂ / ℓ₀²
+ which is the m₁ × m₂ of Newton's law in another form, while the total mass cannot rise and usually falls, radiated away. The count goes up; the weight goes down. established as the trade-off: a reading
+ A count is not a weight
+ A flat, empty region of N thoughts has about N²/20 related pairs and weighs nothing. So “only relations carry weight” needs care: only structure in the relations carries weight; an even background of relations does not. In the gravity route this is the fact that evenly spread energy drops out of the equations. established
+ One idea that does not hold
+ That the smallest things, a neutrino or a degree of heat, are a couple of units across. It is the other way round: the less energy, the longer the pattern. A neutrino of 0.05 electronvolts corresponds to about 3.5 × 10²⁹ units, far longer than an atom.
+### The rule of growth, tested as physics
+### What it gets right
+Thoughts in an order, with no meaning to the birth order of unrelated ones, is the structure physicists call a causal set. Counting thoughts gives volume, and the longest chain gives time. The classical rule for growing one is exact and checked.
+established
+### What it does not give
+Space. For every choice of its free numbers the classical rule grows something long in time with no spatial structure in the large. In our runs, a true four-dimensional scatter measures 3.96 to 3.99 dimensions at every size; grown patterns wander between about 1.4 and 4.2 and settle on none.
+established theorem. Version 2 repeated the runs with three to five seeds on eleven rules and settings, including rules that see shape, and none settles on a dimension (the dimension result).
+### Steady exponential growth
+When each new thought builds on K earlier thoughts, chosen evenly from all of history, the number of thoughts side by side grows as erh after h steps, with r = 0.30, 0.16, 0.088, 0.042, 0.020, 0.0081 and 0.0041 per step for K = 2, 3, 5, 10, 20, 50, and 100. The reason is counting: the longest chain then grows only as the logarithm of the number of thoughts, and the same count gives a rate of at least 1/(eK). In the simplest rule, where each earlier thought is built on with a small chance p, the number side by side rises by about ln(1/p) e-folds in one burst and then holds steady. The two rules together give steady growth for 10 to 13 e-folds and then an end. Whether this growth is inflation is a conjecture. Version 2 tested whether it is space, and it is not: the measured dimension rises without limit (the dimension result).
+numerical runs of a million to 200 million thoughts, repeated with a second, independent program
+ So the classical rule is a template for UI's law, not the law. Version 2 found rules that remember, by copying shapes. Every one we built by hand breaks two of the four conditions, not one (the copy rules). What has to change, and what the change would open up, is on the Math page. Until a rule exists that grows three dimensions of space, everything in the gravity route below that says “if the order is spacetime-like” stays an if.
+### Where HMR and physics say the same thing
+ The task force lined up every statement on these pages against published physics. These are the firmest matches, the ones everything else is built on. Rows 1 to 8 are theorems about any pattern of thoughts that has the shape of spacetime. established
+ In HMR
+In physics
+Where it is shown
+ 1. One thought builds on another
+Cause comes before effect. A set of events with only that order, and finitely many events between any two, is a causal set.
+Rideout, and Sorkin, 2000; Surya, 2019
+ 2. Before, after, apart
+Past, future, and out of reach of any signal.
+Same sources.
+ 3. Volume is the number of thoughts
+The volume of a region of space and time is the number of elements in it.
+Surya, 2019.
+ 4. Time is the number of links in the longest chain
+The time that passes on a clock carried between two events.
+Brightwell and Gregory, 1991
+ 5. Free fall is the path of most thoughts
+A freely falling body takes the path on which the most time passes.
+Brightwell and Gregory, 1991.
+ 6. The birth order of unrelated thoughts means nothing
+General covariance: no way of slicing time is preferred.
+Rideout, and Sorkin, 2000.
+ 7. The share of pairs that are related tells the number of dimensions
+One half in two dimensions, 8/35 in three, one tenth in four.
+Myrheim and Meyer's dimension. Recomputed by the task force in four dimensions: 0.0994 ± 0.0023.
+ 8. A random scatter of thoughts marks no direction and no state of rest
+A grainy spacetime that still looks the same to observers moving at any speed.
+Bombelli, Henson, and Sorkin, 2009
+ 9. A closed moment: everything earlier acts on what follows through one number
+The renewal of the laws after a cosmic bounce.
+Martin, O'Connor, Rideout, and Sorkin, 2001
+ 10. Gravity's equations from counting what crosses a boundary
+Einstein's equations as an equation of state.
+Jacobson, 1995
+ 11. Gravity as space flowing inward
+The river model, exact for black holes.
+Hamilton and Lisle, 2008
+ 12. Ordinary chance cannot link outcomes beyond a score of 2
+Bell's theorem. Measured in nature: 2.42 ± 0.20.
+Hensen and others, 2015. Recomputed by the task force: 2.000.
+### The road to quantum mechanics
+ Quantum theory sits exactly one rung above ordinary chance, and HMR's rule of growth climbs that rung when its numbers are allowed to be complex.
+### The rung above chance
+Ordinary chance obeys one rule: the chance of “this or that” is the sum of the two. Quantum theory breaks that rule for pairs and keeps it for triples. Two paths interfere; three paths add nothing new (Sorkin, 1994). Measured with light through three slits: three-path interference is under one hundredth of two-path (Sinha and others, 2010).
+established
+### HMR's rule, one rung up
+Let the strength p in the simplest rule of growth be a complex number. Pairs of histories then interfere and triples do not, for every pattern the task force has counted. With three thoughts and p = (5 + i√11)/6, “three in a row” has weight 1, “two in a row and one apart” has weight 1, and “one or the other” has weight 0. No rule of chance can do that. This rule is a toy: it is not well defined at large size (task force record, November 20, 2026).
+exact in HMR
+### Linked outcomes, up to nature's limit
+On the standard test of linked outcomes, ordinary chance scores at most 2. A rule one rung up, whose weights stay positive in the strong sense, scores at most 2√2 = 2.83, the limit of quantum theory. Without that condition the score reaches 4, which nature does not (Craig and others, 2007). The task force recomputed all three: 2.000, 2.828, 4.000.
+established So UI's rule carries that condition: HMR reading
+### Phases that survive a closed moment
+Find the complex rules of growth that stay well defined at every size and keep their phases after a thought that closes everything before it. Version 2 proves that only the geometric part of a rule's weights survives, which leaves one named family to test (what survives). in progress
+### Births as operations
+Build the smallest rule in which each birth is an operation and not a single number, so that definite chances appear. in progress
+### The test inside a grown pattern
+One thought, two thoughts apart built on it, a choice and an outcome on each side. The score must come out above 2 and no higher than 2.83, with no signal passing between the sides. in progress
+### From a thought to a particle
+### A quantum rule for births
+The three steps above. in progress
+### The rule grows space and time
+A pattern with three dimensions of space and one of time, holding steady as it grows. open in science
+### A field on the pattern
+On a pattern of thoughts shaped like spacetime, a quantum field has been built, and its smallest ripples travel and scatter the way particles do (Johnston, 2009; Albertini, Dowker, Nasiri, and Zalel, 2024). Physics reads a particle as the smallest ripple the field can carry. established HMR's own candidate is a shape in the order that lasts and recurs. Version 1's rules cannot hold one. Rules that copy shapes give lines of descent, a first step (the copy rules). HMR conjecture
+### The known particles
+The particles of matter, which must be turned twice to come back to themselves, and the fields of the forces. Built in part. open in science
+### Masses as numbers
+A lasting pattern with a period that can be computed, and the ratio of two such periods equal to a measured mass ratio: 206.768 for the muon and electron, 1836.153 for the proton and electron. Version 1's rules hold no lasting pattern. Copy rules give shapes that carry themselves forward, and a period has not been measured. open in science
+### What the task force is working on
+ A team is working to answer each of these. Each item says what will count as the answer.
+### A rule of growth that yields space
+Shown by a dimension near 4 holding steady over at least a hundredfold range of sizes, by theorem or by simulation at 100,000 thoughts or more. For rules within ordinary probability this is a published open problem, and those who posed it expect the answer to need quantum theory. Everything else waits on this. Version 2 adds two requirements: the rule's focus must have no fixed limit, and attention must depend on which earlier thoughts are near one another (why).
+### Inflation from a closed moment
+A conjecture. A rule with steady exponential growth and an end is in hand (above), but it does not grow space, and no larger K can fix that (why). This item waits on a rule of growth that yields space. What remains after that: showing that what grows is space of three dimensions; a rate below 8 × 10⁻⁶ per step, which takes K of about 50,000 or more; 60 e-folds or more; an end that follows from the rule; and ripples of the measured tilt (0.965) and size (2.1 × 10⁻⁹).
+### One pure number
+A lasting pattern in the grown order with a computable period, and the ratio of two such periods equal to a measured mass ratio: 206.768 for the muon and electron, or 1836.153 for the proton and electron. This is the road from a thought to a particle.
+### The bit, derived
+A reason from the rule of growth why a crossing relation carries exactly one bit, and which count is the entropy. Then 4.34 thoughts per Planck volume becomes a prediction that can be tested.
+### A quantum rule for births
+One that reduces to the classical template when interference is switched off and gives linked outcomes up to the quantum limit and no further. This is where ħ would either be derived or shown to be an input. The road
+### A number for coherence
+One quantity that rises when matter clumps and also ranks a living thing above a hot gas, on test cases fixed in advance.
+@@SECTION no-memory
+ Version 2: memory
+## Version 1's rules cannot remember, and rules that copy can
+ In every rule of Version 1's family, the shape of what is thought later is independent of the shape of what was thought earlier. Nothing later can be a record of anything earlier.
+ Why. In those rules a new thought picks a set of earlier thoughts to attend to, weighted only by the set's size and evenly among sets of that size. Whether one late thought rests on another late thought then depends only on late thoughts. The early shape never enters.
+ exact in HMR proved by hand. numerical Grow 24 thoughts 200,000 times and compare an early block of births with a later one: the correlation between early and late shape is 0.002 and 0.000 for two rules of the family, against a noise level of 0.002. An earlier check of four rules at 20,000 runs each gave the same. The Math page already said the family is blind to shape. This is sharper: it is blind to its own past.
+### What that rules out
+ Memory. No pattern is a record of an earlier one.
+ A recurring idea. Nothing returns except by chance.
+ A particle. A particle would be a shape that persists. These rules cannot hold one.
+ “About”. A thought cannot carry information about an earlier pattern, so truth cannot be earned from the law (the mechanics of thought).
+ Memory, a lasting particle, and reference are one requirement on the law: it must favor the return of a shape. So the law must see shape. Rules that do are tested below, and the ones that copy shapes remember.
+### What we tried
+ We built seven small rules that let a new thought see something about shape, borrowing ideas from computing and from AI, and measured three things: whether late shape remembers early shape, how long the memory lasts, and whether the pattern holds a number of dimensions. Runs of up to 32,000 thoughts, five starting seeds each for dimension. numerical
+ What the new thought sees
+Memory
+How long it lasts
+Dimension
+ Sizes only (Version 1's family)
+None, as proved
+Not applicable
+Drifts
+ Only the most recent 50 births
+None
+Not applicable
+Becomes a line
+ How long a chain lies under a candidate
+Real and tiny (0.015)
+Not measured
+Drifts
+ Whether anything has been built on a candidate yet
+Strong (0.16)
+Fades with one time scale, gone within about 1,000 births
+Whole pattern near 1.7 to 1.8; inside it, 1.0 to 2.7
+ Which thoughts share a direct parent (nearness)
+Weak (0.02 to 0.05)
+None once the run is under way
+Drifts
+ All near thoughts at once, with no limit on focus
+Lasting above a threshold
+Does not fade over 1,100 births, but it is a fuse: once blown it never resets, and the pattern runs away
+Drifts; seeds disagree
+ The candidate most like the one just chosen (attention as in AI)
+Weak (0.01 to 0.04), near the start only
+None once the run is under way
+Drifts
+### What none of these rules produced
+A memory that lasts and can be rewritten. Two stable states with a barrier between them. A shape that carries itself forward. A steady number of dimensions. The copy rules below change the first three in part, and not the fourth.
+### The cost was higher than Version 1 expected
+Version 1 proposed giving up one of its four conditions, the third. Every shape-seeing rule we built by hand broke two: the third, and the second, that the birth order of unrelated thoughts means nothing. The one form that keeps the second showed only a faint hint of memory at 24 thoughts and nothing detectable at 200.
+### What was missing: copying
+The rules in this table that remembered stored a number, such as how wide or how dense the pattern is, not a shape. So we tried rules in which an existing shape raises the chance of the same shape later. Those do remember. The copy rules ↓
+### Copy rules: memory found
+ Each thought has a small shape: what it is built on directly. In a copy rule, a new thought is more likely to take a shape that already exists. We tried eight such rules and settings, on patterns of up to 128,000 thoughts. numerical
+### Copying gives memory
+The rules that copy a shape directly all remember it strongly. The agreement between early and late counts of a shape ran from about 0.4 to above 0.9, where Version 1's rules give about zero and the best rule in the table above gave 0.16. Simple copying has no clock: what fades depends on how many times older the pattern has grown, not on how many births have passed.
+### Shapes carry themselves forward
+When a new thought copies the shape of the thought it builds on, the same shape runs on in lines of descent, far beyond chance, and the longest line grows as the pattern grows. This is the first lasting shape in any of our runs. It is not yet a particle: nothing protects a line from ending, and we have not measured whether a line stays narrow.
+### Local copying freezes, it does not store
+With copying that looks only nearby, each run settles early into its own mix of shapes and keeps it. A later attempt to write a different mix leaves only a small trace. That is a record of how the run began, not a memory that can be rewritten.
+### A two-way bit, but only one for the whole pattern
+A true bit appeared in one kind of rule: the new thought favors the shape most common among the latest births. Then there are two stable states. A short write relaxes back, a write past a threshold sticks, and it can be switched both ways. The bit lives in ongoing activity that keeps remaking it. It is one store for the whole pattern, it is not in any place, and the rule reads the order of births to keep it.
+### No dimension
+Every copy rule still drifts: the measured dimension keeps rising as the pattern grows, as it does without copying. Memory has arrived. Space has not.
+### The cost
+Every copy rule we built breaks both the second and the third of Version 1's four conditions. A copy rule written in Version 1's own form, as a liking for the finished pattern, has not been tried.
+### The next lead
+A local store that is refreshed: growth that returns to the same neighborhood at a steady rate, so that a shape held in one place keeps being remade there. Even draws from all of history cannot do this, and building only on the newest thoughts collapses to a line. HMR conjecture We are still working on it.
+ Limits: one family of statistics for memory; three small shapes, one step deep; most rules were run at one or two settings; the long holding times of the bit rest on few events. Scripts and outputs: HMR Physics on GitHub →
+@@SECTION dimension
+ Version 2: a second negative result
+## No rule we have tested holds a dimension
+ Version 1 read one rule of steady growth as a candidate for inflation. In that rule each new thought builds on a fixed number K of earlier thoughts. We tested whether what grows is a space. It is not.
+ A space has a number of dimensions, and that number shows up as the share of pairs of thoughts that are related: one in ten for our world, at every size and inside every region (row 7 above). In the K rule the share keeps falling as the pattern grows, so the measured dimension keeps rising. It passes through 4 and does not stop.
+ Thoughts
+K = 2
+K = 5
+A true scatter in four dimensions
+ 500
+3.82
+2.15
+4.0
+ 2,000
+4.60
+2.51
+4.0
+ 8,000
+5.37
+2.87
+4.0
+ 32,000
+6.15
+3.22
+4.0
+ Measured dimension of the whole pattern, mean of five seeds. Inside regions of a 32,000-thought pattern the estimate also drifts with the size of the region, from about 2 to about 4 or 5. That drift inside regions is the decisive evidence: an expanding space also has a falling share overall, but every small region of it still measures the same. An averaged argument says the share should fall as the count to the power −1/K, and the runs match it. numerical
+### Why it had to fail
+ In a scatter that marks no direction and no state of rest, every thought has an unlimited number of direct relations (Bombelli, Henson, and Sorkin, 2009). established In the K rule a thought has at most K direct parents. So no rule with a fixed limit on direct parents grows such a space, for any K, however large.
+ exact in HMR from the established result. Two requirements follow for any rule that could work: its focus must have no fixed limit, and what a new thought attends to must depend on which earlier thoughts are near one another, not on an even draw.
+### Every other rule we tried
+ Eleven rules and settings in the first search, including one with no limit on focus, and eight copy rules in the second (above). None settles on a dimension. Our confidence is moderate, not high: three to five seeds, sizes up to 128,000, and most rules at one or two settings. numerical
+### A liking for the same balance at every scale
+ Our best candidate was a liking that holds the one-in-ten share in regions of every size. In two dimensions at 60 thoughts it moved a pattern about two thirds of the way toward a true scatter. In four dimensions at 1,000 and 2,000 thoughts it closes only 10% to 23% of the gap, and a true scatter given this liking drifts away from being one. The runs had not converged across starting points. So the balance is a real constraint and clearly not enough. numerical
+ What this does to the inflation reading. The K rule does give steady exponential growth, and that count stands. What Version 2 shows is that the thing growing has no dimension, so it is not space, and that no larger K can fix this. “Inflation is growth after closure” is an HMR conjecture, and no rule yet stands behind it. A rule of growth that yields space remains open
+@@SECTION phases
+ Version 2: the quantum road, narrowed
+## What survives a closed moment
+ The road to quantum mechanics needs a complex rule of growth that keeps its phases after a closed moment, a thought that everything earlier comes before. Version 2 proves which rules can.
+ After a closed moment the weights of the rule are renewed by a fixed formula (Version 1). Applied again and again, that formula keeps only the part of the weights that grows geometrically, each weight a fixed multiple of the one before. Everything else washes out.
+ t′(n) = Σ C(r, k) t(n + k) = ((1 + E)r t)(n)t(k) = Σ ai zik  ⟹  t′(n)/t′(0) → z*n
+ Here E shifts t(n) to t(n + 1), and z* is the component with the largest |1 + z|. exact in HMR proved by hand, not yet checked by script.
+ Three cases
+ Finitely many weights. Only the component z = 0 is present, so the phases vanish. This matches the task force record, November 20, 2026.
+ One complex component wins. The rule tends to the simplest rule with a complex strength, which the task force record, November 20, 2026 shows is not well defined at large size. A dead end unless the approach is slow enough to matter.
+ A matched pair, z and its mirror, ties. The renewed weights are real and change sign, and weights that change sign still interfere. This is the one named family left to test. HMR conjecture Fail: the total weight grows without limit for every z.
+@@SECTION gravity
+ The hardest problem
+## Curved spacetime, from the first distance.
+ On the Defining Universal Intelligence page, the mathematics runs from the first distance to flat spacetime, the spacetime of special relativity. The next step is curved spacetime: gravity. This is HMR's route, written out step by step. It does not invent new physics. It walks a road physicists already know, the thermodynamics of spacetime (Jacobson, 1995), with the pieces of causal set theory, and shows where HMR's first distance fits into it.
+ The result is a complete chain to Einstein's equations, with every link labeled. Some links are established physics. Some follow from HMR. Some are assumptions HMR has to add, and three are still open. None of this proves Universal Intelligence; mathematics alone cannot do that. What it does is take the idea as far as careful mathematics can go today, and mark exactly where trained physicists have to take over.
+ How each step is marked
+ standard established physics, with the source
+ HMR-derived follows from HMR's premises
+ HMR assumption an assumption HMR adds
+ open not yet solved, by HMR or by anyone
+### 1. The first distances are scattered, not a grid HMR-derived
+ Each act of distinction is an element; each relation says which came before which. Space-time volume is the count of elements: N elements fill a volume V = N ℓ₀⁴. Could the elements sit on a regular grid? HMR's own counting rules that out. On a cubic grid, a surface with direction n is crossed by
+ (|nx| + |ny| + |nz|) / ℓ₀²  relations per unit area,
+ which varies by up to a factor of √3 with direction, so the strength of gravity would depend on which way you faced. It does not. If the relations carry no structure beyond themselves HMR assumption, they are scattered at random, and a random scattering picks out no direction and no moving frame (Bombelli, Henson, and Sorkin, 2009) standard. That gives relativity's single light cone, with c = ℓ₀ / t₀, and it predicts no change in the speed of light with energy, which matches gamma-ray burst observations (Vasileiou et al., 2013).
+### 2. What a boundary counts, and the size of the first distance HMR assumption calculated
+ A boundary of area A is crossed by γ relations per ℓ₀², each carrying information s. Its entropy is
+ S = η A,   η = s γ / ℓ₀²
+ γ can be calculated. Count the pairs of elements that straddle the boundary with nothing in between, the "horizon molecules" of causal set theory. For randomly scattered elements in four dimensions the answer is exact (Barton et al., 2019), and we reproduced it by direct numerical integration (0.17320):
+ γ = √3 / 10 ≈ 0.173
+ If each crossing relation is one binary distinction, "me" or "not me", then s = ln 2. Black holes fix η = 1 / (4 ℓP2) (Bekenstein, 1973), so
+ ℓ₀ = 2 √(s γ) · ℓP  ≈ 0.69 ℓP ≈ 1.1 × 10⁻³⁵ m
+ This settles the old question of the factor of 1/4: it is not a separate mystery but the statement of how large the first distance is, a little under one Planck length. Note: this trades G for ℓ₀ rather than predicting G. Counting one natural unit of information per relation instead of one bit gives 0.83 Planck lengths, and one bit per smallest area of a horizon gives 1.7.
+### 3. The temperature standard
+ An accelerating observer finds empty space warm, at the Unruh temperature
+ T = ħ κ / 2π
+ This follows exactly from relativity's symmetry plus quantum theory (Bisognano and Wichmann, 1975; Unruh, 1976). HMR does not derive quantum theory; it borrows ħ, positive energy, and locality HMR assumption.
+### 4. Coherence displaces distance, as an equation HMR assumption
+ This is HMR's central physical claim, now given a number. When energy crosses a boundary, the entropy it carries is recorded as new crossing relations:
+ s · ΔN = δQ / T  ⟹  ΔN = −(2π / ħ s) ∫ λ Tab ka kb dλ dA
+ For s = ln 2, that is about 9 new relations for every ħ of energy times distance crossing the boundary. This is the step where gravity enters.
+### 5. Curvature is the acceleration of the relation count standard
+ Follow a bundle of light rays and let n be the number of relations crossing it. Raychaudhuri's equation (1955) says how the bundle's cross-section changes, and in HMR terms that reads:
+ Rab ka kb = − d² ln n / dλ²
+ Curvature, the thing Einstein's equations describe, is how fast the count of first distances speeds up or slows down along a ray of light.
+### 6. Einstein's equations HMR-derived
+ Steps 4 and 5 must agree for every light ray through every point. That forces
+ Gab + Λ gab = (8π G / c⁴) Tab,   with  G = c³ ℓ₀² / (4 ħ s γ)
+ once matter's energy is conserved (the Bianchi identity does the rest) standard. Two things come out that HMR said in words before. Gravity is set by how many first distances a surface holds. Any energy spread evenly through empty space drops out of the equations, so in this route the enormous vacuum number drops out. That empty space carries no weight is HMR's conjecture. HMR conjecture All of this holds only if the order of thoughts is a space, which no rule yet delivers. Λ, the cosmological constant, appears as a free constant, which opens the door to step 8.
+### 7. In progress in progress
+ Smooth spacetime from discrete relations. No rule for adding relations, in HMR or in any discrete approach to gravity, has been shown to produce a smooth, four-dimensional spacetime. Most random orderings look nothing like space. This is one of the central unsolved problems of quantum gravity.
+ Which count is the entropy. Step 2 calculates γ for one definition of "crossing". Why that count, and not another, should be the entropy is not settled; one numerical study of entanglement, in a simplified one-space-plus-one-time model, found a volume law rather than an area law until near-zero modes are removed.
+ Quantum theory itself. The temperature in step 3 relies on it. Deriving it is the task force's first goal.
+ Where this leaves us
+ This page has a chain of equations from the first distance to Einstein's gravity: the old question of the 1/4 answered, the grid ruled out, the number of crossing relations calculated, and HMR's claim about empty space turned into a result. The route reproduces known gravity. Going beyond it is what the task force is working on.
+ What remains is not a list of small next steps. It is the same wall every theory of quantum gravity stands in front of: showing that discrete pieces must add up to smooth space-time, and finding where quantum theory comes from. HMR goes about as far with the idea of Universal Intelligence as mathematics can go before it needs physicists working on it full time. Proving the source of reality mathematically will take many people. This page is an invitation to them: every assumption is named, so every one can be attacked, tested, or improved. What physics says about gravity →
+@@SECTION pull
+ Attraction
+## Why things fall: the readings HMR is weighing.
+ HMR's first statement about gravity was “a trend toward coherence”. That is a starting hypothesis, and HMR holds several other readings beside it. Each is set here against what physics already has, so it is clear which parts are borrowed, which are HMR's, and which are still only words.
+ The reading
+What it meets in physics and in the mathematics
+Where it stands
+ Thoughts that belong together attract and cluster
+In the simplest rule for the next thought this is exact: the chance that the next thought builds on a thought grows with how much already rests on it, and two thoughts pull as the product of their pulls. That is attraction between thoughts in a pattern. It is not yet a force in space. The rule cannot see which thoughts belong together, because it cannot see shape. The mathematics →
+established in the pattern. As a force in space: in progress
+ Gravity is an inward-flowing river
+This is an exact picture in Einstein's theory. Around any round mass, space can be described as flowing inward at the escape speed, √(2GM/r), and everything else moves through that flowing space by the rules of special relativity. At the Earth's surface the river runs at 11.2 km per second. At the edge of a black hole it reaches the speed of light, which is why nothing gets back out (Hamilton and Lisle, 2008).
+established Where the river goes: HMR conjecture
+ Mass has momentum in time
+It does. A mass at rest is moving through time and carries momentum mc in that direction; its rest energy mc² is that momentum times c. Where clocks nearby run slower, a path through time bends into a path through space. For everyday gravity this is the whole effect: Newton's attraction comes from the rate of clocks alone.
+established
+ Thought grows denser near matter
+In the counted picture the number of thoughts in a unit of space and time is the same everywhere, and that sameness is what keeps every observer's view equal. What changes near matter is how the chains run: fewer steps pass on a chain that stays low than on one that climbs. “Slower time” fits the count. “Denser thought” does not, as the count stands.
+exact in HMR given count = volume. “Denser”: not supported yet
+ A draw back to source: the non-physical sits at the center of mass, and the physical world is a finite container with a doorway
+No measurement supports this and none excludes it. The count offers one thing: any region holds a finite number of thoughts, so the center of a black hole cannot be a point of infinite density. Einstein's equations say only that they stop working there. A place where the pattern of thoughts no longer has the shape of space is a candidate meaning for the doorway.
+HMR conjecture The mathematics: in progress
+### Free fall is the path of most thoughts
+Between two events, a freely falling body takes the path on which the most time passes. In a pattern of thoughts shaped like space and time, the time along a path is the number of thoughts in the chain, so the free path is the longest chain. A thrown ball rises because clocks run faster higher up, and comes back because moving fast costs time. Its arc is the best trade between the two.
+ established as Einstein's rule; the longest chain measures time in flat space (Brightwell and Gregory, 1991) “most thoughts”: HMR reading
+### Why match Einstein at all, if his theory predicts its own failure?
+Because it fails in two places only. Einstein's equations have passed every test made of them, from falling apples to merging black holes, so any replacement must give the same answers wherever they have been tested. At the center of every black hole and at the start of the universe they give infinities, which is a theory announcing that it has stopped working.
+HMR is measured against the first and is free at the second. What it has there is this: the count is finite, so there is no infinity at the center. established the formula: in progress
+@@SECTION gravity-kind
+ Version 2: is it the right question?
+## Gravity may not be the kind of thing that is quantized
+ Physics has tried for decades to give gravity a quantum description, the way it did for the other forces. Perhaps the clue is that there is none to find, because gravity is a different kind of thing. HMR is not bound to the question as physics frames it. It is bound to what is measured.
+ In HMR's mathematics there are two kinds of object. A pattern inside the order of thoughts is counted: it occurs zero times, once, twice. The order itself is not counted. There is one of it, and its properties, such as volume and curvature, are averages over enormous numbers of thoughts. Counts come in whole steps. Averages over N parts look smooth, with a leftover wobble of about one part in √N. exact in HMR these two statements are close to definitions.
+ The conjecture. The forces are patterns within the order, which is why they come in quanta. Gravity is not a field living on the order, so there is no field there to quantize. It is how the order behaves on average at very large counts, as pressure is how a gas behaves. Quantizing Einstein's equations would then be like quantizing the gas law: the wrong level. HMR conjecture
+ Where this comes from
+ HMR's route to Einstein's equations uses the mathematics of Jacobson's derivation, in which the equations are an equation of state, like the gas law (Jacobson, 1995). We take the mathematics as a clue to what gravity is.
+### What the conjecture does not say
+ It does not say gravity is classical. HMR has one element and one relation, so matter and geometry are made of the same thoughts. If matter can be in two places at once, then either the order can be in two shapes at once, or it cannot and something else carries the two-places-at-once. Those are the two forms the conjecture can take.
+### An open question: which of two forms, and the experiment that decides
+### Form 1: one kind of thing
+ The order itself is undecided between records. Gravity is not a quantized field, and it is not classical either.
+ It predicts: two small masses can become entangled through gravity alone.
+ Which claim it gives up: that geometry is definite (claim A below).
+ It keeps HMR's one element and one relation as they are. open
+### Form 2: a definite order with something riding on it
+ Every thought is definite, and what behaves in a quantum way is an inner state carried by the thoughts. This is close to Jonathan Oppenheim's proposal of classical gravity with quantum matter and unavoidable noise (Oppenheim, 2023).
+ It predicts: no entanglement through gravity. In its place, a trade: the longer a mass can stay in two places at once, the more the geometry must jitter (Oppenheim, Sparaciari, Šoda, and Weller-Davies, 2023).
+ Which claim it gives up: that matter itself is in two places at once at every size (claim C below). The order of thoughts stays definite.
+ It asks for an inner state on a thought, which HMR's mathematics does not have yet. open
+ The test. A proposed experiment holds two small masses near each other, each in two places at once, and looks for entanglement between them that only gravity could have carried (Bose et al., 2017). Entanglement seen: form 1. Entanglement ruled out at the needed sensitivity: form 2. Tests of the noise trade-off in form 2 are described in the decoherence and spacetime diffusion paper above and in a gravitational-wave test (2026). Which form is right is open, and we are still working on it. If form 2 holds, HMR's noise would come from counting, with a size of about one in √N and a grain of volume.
+ What would count against the conjecture itself: a grown pattern in which geometric quantities do not settle down as the count rises, or particles that need an inner state that is not a pattern. Neither test can be run until a rule grows space.
+@@SECTION three-claims
+ Version 2: the contradiction, located
+## Relativity against quantum theory, as three claims
+ The clash between physics' two great theories can be written as three short claims. Any two of them can hold together. All three cannot. The claims belong to the frameworks of physics, not to its measurements, and HMR does not have to hold all three.
+ A
+### Geometry is definite
+Every pair of events is either related or apart, with one answer. This is the root of general relativity.
+ B
+### Geometry follows matter
+Where the mass is fixes which pairs of events are related. This is Einstein's equations.
+ C
+### Matter can be in two places at once, at every size
+A mass can be here and there together, with no upper limit on the mass. This is the root of quantum theory.
+ The clash. Put a mass here and there at once (C). Then the geometry is the here-geometry and the there-geometry at once (B). Some pair of events is related in one and apart in the other. A forbids that. exact in HMR as logic, given the three claims as stated. This is the second kind of contradiction on the Math page: one pair claimed both related and apart.
+ Each pair is a working theory. A and B: general relativity with ordinary matter. C alone: quantum theory on a fixed background. A and C with B set aside: quantum fields in curved spacetime. Any way of joining them has to give up or weaken at least one claim. Oppenheim's proposal (Oppenheim, 2023) keeps the geometry definite.
+ Where the clash lives. By position, all three claims are foundations. By what has been tested, they are leaves. Two-places-at-once has been seen for molecules beyond 25,000 atomic mass units, about 4 × 10⁻²³ kg (Fein et al., 2019). The gravity of a source has been measured down to gold spheres of about 90 milligrams, about 10⁻⁴ kg (Westphal et al., 2021). Between the two lie more than eighteen powers of ten in mass, and the two claims are not tested together there. So the measurements do not conflict. The frameworks do.
+ What the mathematics says the contradiction costs
+ For the tested body of physics: little. No tested result rests on the part of a claim that is in doubt.
+ For everything that needs all three in full: the whole join. The inside of a black hole, the first instant, the weight of empty space, and any single root for all of physics. Each theory keeps its full size. What is lost is what would rest on both. exact in HMR given the definitions on the Math page applied to physics: HMR reading
+### HMR does not have to hold all three
+ HMR starts from thoughts and their order, not from a geometry with matter placed in it. So it is free to give up one of the three, and each form of its gravity conjecture does (above).
+ Form 1 gives up A: the order is not definite between records, so gravity can entangle two masses.
+ Form 2 gives up C as stated: the order stays definite, and two-places-at-once rides on it as an inner state, as in Oppenheim's proposal.
+ Either way there is no contradiction inside HMR. What is open is which form holds, and an experiment decides. Version 1 did not say which. HMR conjecture for each form. The choice: open We are still working on it.
+@@SECTION right-question
+ Version 2: is it the right question?
+## Dark energy and dark matter
+ Some questions stay open because they are hard. Some may stay open because they are asked from the wrong side. For each, we say what the usual question assumes, what HMR would ask in its place, and what evidence cuts against HMR's version.
+ Usual question
+What HMR would ask
+Where that stands
+ Dark energy: what substance fills empty space?
+No substance. If space and time are a count of N thoughts, the count wobbles by about √N, and the energy of empty space with it. The question becomes: does the amount wander over cosmic time, as a wobble would?
+The size comes out right, and the argument is causal set theory's, not HMR's (Ahmed, Dodelson, Greene, and Sorkin, 2004). established as a published argument. In that argument the amount wanders: it is called everpresent Lambda (preprint), and its fluctuations scale inversely as the square root of spacetime volume (Ahmed and Sorkin, 2012). The DESI survey reports hints that dark energy changes with time, at 2.8 to 4.2 sigma depending on which supernova data are combined (an analysis combining DESI, Planck, and supernova data, 2024). The result is disputed (a critical view, 2025).
+ Dark matter: which particle is it?
+Where does the count-based law of gravity stop holding? HMR's route to gravity assumes a small local horizon in balance with its surroundings. At very small accelerations that assumption fails on its own terms.
+HMR reading A place to look, not a result. Galaxies depart from Newton's law below one acceleration, about 1.2 × 10⁻¹⁰ m/s² (McGaugh, Lelli, and Schombert, 2016). Whether the usual question is the wrong one is open. HMR has no mechanism.
+ Measurement: when does the wave collapse?
+The question assumes the wave is the thing. In HMR events are the things, and the wave is bookkeeping for possibilities not yet committed. The question becomes: what makes a commit?
+A candidate: a commit is the making of a record, a later pattern whose shape carries information about an earlier one. Not every birth is a commit, or light could not interfere across many steps. HMR conjecture No rule says when a commit happens, and nothing is predicted.
+ Quantum gravity: how do we quantize gravity?
+Is gravity the kind of thing that is quantized at all?
+Above. HMR conjecture Which of its two forms holds is open, and an experiment decides.
+@@SECTION stress
+ Version 2: the stress test
+## The biggest open questions, and whether HMR has moved them
+ One way to find out whether a model is working is to ask what it has done for the questions science finds hardest. We take those questions as clues, and some may be the wrong questions (above). What binds HMR is measurement. Progress means a result science lacks. Partial means a result that is conditional or borrowed, or a sharper question. None means none. A reframing does not count as progress.
+ Question
+Verdict
+Why
+ Quantum gravity
+Partial
+Finite counts remove the infinities. Einstein's equations follow only if the pattern is a space, and no rule grows one: the same wall causal set theory faces. New in Version 2: a conjecture about what kind of thing gravity is, in two forms, with a deciding experiment. Either form avoids the clash between relativity and quantum theory.
+ Measurement
+Partial
+Placed at the commit. No rule says when a commit happens. Nothing predicted.
+ Dark energy and the energy of empty space
+Partial, borrowed
+The one-in-√N size is causal set theory's result. The mismatch of 10120 is moved, not solved.
+ The arrow of time
+Partial, weak
+The number of histories of a pattern never falls. It rises only because the count of thoughts rises, so it is not the second law for matter.
+ Three dimensions of space
+None
+No tested rule holds any dimension (above).
+ Particles, charge, spin, and mass ratios
+None
+Version 1's rules cannot hold a lasting shape. Copy rules give lines of descent, which is not yet a particle (above).
+ Dark matter
+None
+A place to look. No mechanism.
+ Why energy is conserved
+None
+Version 1's one exact symmetry is a relabeling and yields no conserved quantity.
+ Matter over antimatter
+None
+It needs a rule that tells a pattern from its mirror image. Version 1's simplest rule cannot.
+ The values of the constants
+None
+A clue only: the free numbers of the rule change after a closed moment and settle toward fixed values.
+ Why there is experience at all
+None that can be tested
+HMR takes experience as fundamental. That removes the question by assumption. Version 2 gives feeling a place in the mathematics, which is not the same as explaining it.
+ The origin of life
+None
+The “inversion” is a story so far, marked in progress.
+ The seven prize problems of mathematics
+None
+No chain of proof toward any of them. One of Version 1's supporting sentences, that every quantity has a smallest step, conflicts with the massless photon. Math page
+ The foundations of mathematics
+Partial
+A stage-by-stage account in which truth is permanent and no finite model of oneself is complete. This agrees with known theorems about the limits of proof and does not derive them.
+ Why mathematics describes nature
+Partial
+If what is described is a pattern, and mathematics is the study of patterns, a true model must be mathematical. That explains that mathematics applies. It does not explain why short equations do, and it rests on an assumption, not a result.
+ Tally: progress 0, partial 6, none 9. HMR has no confirmed prediction of its own. What Version 2 does have are two negative results that say exactly what the law lacks, rules that remember for the first time, and one open question about gravity that an experiment can decide.
+ Every script, run, and output behind this page: HMR Physics on GitHub → The proofs and checks behind the mathematics of thought: HMR Math on GitHub →
