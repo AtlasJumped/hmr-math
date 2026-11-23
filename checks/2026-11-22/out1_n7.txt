@@ -1,0 +1,21 @@
+PASS 216309 then law R(C then D)=R(C)+R(D)+n(C)n(D) 
+PASS 216009 beside law R=R(C)+R(D) 
+PASS 946 joint: one link between top-unique C and bottom-unique D adds exactly n(C)n(D) 
+PASS 101960 R = sum |past(x)| = sum f(x) = #comparable pairs 
+PASS 19 Fan: a false link costs exactly 1 relation (n=2..20) 
+PASS 19 Line: false link after k-th costs k(n-k) 
+PASS 19 Line: max cost = floor(n^2/4) 
+PASS 708178 Thm7: false thought removes warrant of exactly 1+f thoughts 
+PASS 653516 Thm8.2: 1 <= D(l) <= (1+|past u|)(1+f(v)) 
+PASS 653516 Thm8.3: relation keeps certificate iff a chain avoids l (lost pairs all have a<=u, v<=c) 
+PASS 169976 Thm8.3 explicit: related pair certified iff a chain of links avoids l 
+PASS 110842 Thm15: e never falls under a birth 
+PASS 110842 Thm15: e unchanged iff new thought rests on all existing 
+PASS 5231 Thm1: histories of a pattern are one swap-class; intersection of histories = pattern 
+PASS 242 Thm1: the set of histories determines the pattern (distinct labeled patterns, n<=4) 
+PASS 4 labeled poset counts 1,3,19,219 (n=1..4) match known values 
+PASS 34596 Glue at one element z: R(G)=R(C)+R(D)+below_C(z)above_D(z)+below_D(z)above_C(z) 
+
+real	0m17.958s
+user	0m17.931s
+sys	0m0.008s

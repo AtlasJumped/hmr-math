@@ -1,0 +1,16 @@
+PASS 46525 Thm4: all links true => all R(M) relations true 
+PASS 4234 Thm11: every possible world makes >= kappa claims false; some makes exactly kappa 
+PASS 3610 Thm12 (Reiter duality): arcs in a minimal conflict = arcs in some minimal repair 
+PASS 48322 Join: two ideas on shared referents can be joined iff union of claims acyclic 
+PASS 30164 Join: a-before-b in C and b-before-a in D => no joint pattern 
+PASS 12872 N15: J(y) >= n(C) n(D) for y resting on side-by-side C, D 
+PASS 9 Thm14: ratio one-line/apart = (kn-1)/(n-1) -> k (k=2,3,5; n=5..500) 
+PASS 8 Pebble: a line needs 2 live thoughts (n>=2; 1 for n=1) 
+PASS 3 Pebble: full binary in-tree of height h (edges) needs h+2 (h=1,2,3) 
+FAIL 3 Pebble (alt): same tree needs h+1 pebbles?  [expected FAIL; shows exact constant] (3, (1, 3))
+PASS 5231 Pebble: max Hasse in-degree + 1 <= pebbling number <= n (all posets n<=6) 
+PASS 2000 Thm17: Z(1)=1, V=dlnZ/db, dV/db=Var>=0, V(0)<=0<=V(1) 
+
+real	0m5.168s
+user	0m5.150s
+sys	0m0.000s
