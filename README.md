@@ -1,6 +1,6 @@
 # HMR Math
 
-The mathematics of the Holistic Model of Reality (HMR). The readable version lives at [universemodel.ai/math.html](https://universemodel.ai/math.html); this repository holds the versions, the axioms and theorems in plain text, and the scripts that check them.
+The mathematics of the Holistic Model of Reality (HMR). The readable version lives at the HMR source pages; this repository holds the versions, the axioms and theorems in plain text, and the scripts that check them.
 
 ## Versions
 
